@@ -1,0 +1,705 @@
+,Car_Name,Brand,Model,Year,Variant,Fuel_Type,Kms_Driven,City,Price,Test_Drive_Availability
+0,Jaguar XE Portfolio Diesel,Jaguar,XE,2017,Portfolio Diesel,Diesel,72062,"Banjara Hills Hyderabad,",2400000,Home Test Drive
+1,BMW i7 xDrive60,BMW,i7,2023,xDrive60,Electric,5000,"Jubilee Hills, Hyderabad",17300000,Home Test Drive
+2,Nissan Kicks XV Premium,Nissan,Kicks,2020,XV Premium,Petrol,32409,"Madhapur, Hyderabad",889000,Home Test Drive
+3,Mercedes-Benz GLC 220 d,Mercedes-Benz,GLC,2018,220 d,Diesel,126500,"Attapur, Hyderabad",2750000,Home Test Drive
+4,Hyundai Venue S (O),Hyundai,Venue,2023,S (O),Petrol,5000,"Begumpet, Hyderabad",1120000,Home Test Drive
+5,Toyota Innova Crysta 2.4,Toyota,Innova,2019,Crysta 2.4,Diesel,132823,"Madhapur, Hyderabad",1750000,Home Test Drive
+6,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2018,Titanium 1.5L,Diesel,87472,L.B. Nagar Main,725000,Home Test Drive
+7,Hyundai Alcazar Prestige (O),Hyundai,Alcazar,2022,Prestige (O),Diesel,35872,"Banjara Hills Hyderabad,",1850000,Home Test Drive
+8,Volkswagen Polo Trendline 1.0L,Volkswagen,Polo,2021,Trendline 1.0L,Petrol,46275,"Nagarjuna Hills, Hyderabad",630000,Home Test Drive
+9,Maruti Suzuki Baleno Delta,Maruti,Suzuki,2018,Baleno Delta,Petrol,40528,"Uppal, Hyderabad",635000,Home Test Drive
+10,Tata Nexon XZA Plus,Tata,Nexon,2020,XZA Plus,Petrol,29222,"Madhapur, Hyderabad",1100000,Just Arrived
+11,Toyota Innova Crysta 2.4,Toyota,Innova,2021,Crysta 2.4,Diesel,75708,"Madhapur, Hyderabad",2450000,Home Test Drive
+12,Hyundai Verna SX (O),Hyundai,Verna,2018,SX (O),Petrol,76678,"Nagarjuna Hills, Hyderabad",870000,Home Test Drive
+13,Mahindra Thar LX Hard,Mahindra,Thar,2022,LX Hard,Diesel,47585,"Madhapur, Hyderabad",1600000,Home Test Drive
+14,Mahindra Thar LX Hard,Mahindra,Thar,2022,LX Hard,Diesel,19465,"Madhapur, Hyderabad",1650000,Home Test Drive
+15,Toyota Innova Crysta 2.4,Toyota,Innova,2022,Crysta 2.4,Diesel,38900,"Attapur, Hyderabad",2575000,Quality Report
+16,Toyota Innova Crysta ZX,Toyota,Innova,2022,Crysta ZX,Diesel,41000,"Attapur, Hyderabad",3300000,Home Test Drive
+17,Toyota Innova Crysta 2.4,Toyota,Innova,2021,Crysta 2.4,Diesel,46800,"Attapur, Hyderabad",2650000,Home Test Drive
+18,Mahindra Thar LX Hard,Mahindra,Thar,2021,LX Hard,Petrol,22000,"Madhapur, Hyderabad",1450000,Home Test Drive
+19,Mahindra Thar LX Convertible,Mahindra,Thar,2021,LX Convertible,Diesel,19500,"Madhapur, Hyderabad",1450000,Home Test Drive
+20,Hyundai Creta SX 1.5,Hyundai,Creta,2024,SX 1.5,Petrol,21195,"Shaikpet, Hyderabad",1580000,Home Test Drive
+21,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2020,Titanium 1.5L,Diesel,86715,"Nagarjuna Hills, Hyderabad",800000,Home Test Drive
+22,Maruti Suzuki Celerio ZXi,Maruti,Suzuki,2022,Celerio ZXi,Petrol,8356,"Uppal, Hyderabad",650000,Home Test Drive
+23,Nissan Micra XV CVT,Nissan,Micra,2015,XV CVT,Petrol,18689,"Madhapur, Hyderabad",440000,Home Test Drive
+24,Hyundai Verna Fluidic 1.6,Hyundai,Verna,2015,Fluidic 1.6,Petrol,85479,"Uppal, Hyderabad",550000,Home Test Drive
+25,MG Gloster Savvy 6,MG,Gloster,2020,Savvy 6,Diesel,103851,"Nagarjuna Hills, Hyderabad",2499999,Home Test Drive
+26,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2023,Baleno Zeta,Petrol,50298,"Uppal, Hyderabad",835000,Home Test Drive
+27,Maruti Suzuki Vitara Brezza,Maruti,Suzuki,2020,Vitara Brezza,Diesel,74574,"Uppal, Hyderabad",945000,Home Test Drive
+28,MG Gloster Savvy 6,MG,Gloster,2020,Savvy 6,Diesel,87116,"Nagarjuna Hills, Hyderabad",2650000,Home Test Drive
+29,Hyundai i10 Magna,Hyundai,i10,2012,Magna,Petrol,53984,"Bellavista, Hyderabad",274000,Home Test Drive
+30,Hyundai i10 Era 1.1,Hyundai,i10,2011,Era 1.1,Petrol,13251,"Bellavista, Hyderabad",255000,Home Test Drive
+31,Renault Duster RXS Petrol,Renault,Duster,2019,RXS Petrol,Petrol,70844,"L B Nagar,",678000,Home Test Drive
+32,MG Gloster Savvy 6,MG,Gloster,2020,Savvy 6,Diesel,87116,"Nagarjuna Hills, Hyderabad",2650000,Home Test Drive
+33,Hyundai i10 Era 1.1,Hyundai,i10,2011,Era 1.1,Petrol,13251,"Bellavista, Hyderabad",255000,Home Test Drive
+34,Honda Mobilio RS(O) Diesel,Honda,Mobilio,2016,RS(O) Diesel,Diesel,134181,"Nagarjuna Hills, Hyderabad",460000,Home Test Drive
+35,Volkswagen Vento Highline Diesel,Volkswagen,Vento,2016,Highline Diesel,Diesel,80365,"Uppal, Hyderabad",600000,Home Test Drive
+36,Maruti Suzuki Celerio ZXi,Maruti,Suzuki,2015,Celerio ZXi,Petrol,94084,"Nagarjuna Hills, Hyderabad",300000,Home Test Drive
+37,Nissan Micra Active XV,Nissan,Micra,2016,Active XV,Petrol,38916,"Nagarjuna Hills, Hyderabad",450000,Home Test Drive
+38,Maruti Suzuki Baleno Alpha,Maruti,Suzuki,2022,Baleno Alpha,Petrol,28700,"Nagarjuna Hills, Hyderabad",800000,Home Test Drive
+39,Renault Duster RXS Petrol,Renault,Duster,2019,RXS Petrol,Petrol,70844,"L B Nagar,",678000,Home Test Drive
+40,MG ZS EV Exclusive,MG,ZS,2020,EV Exclusive,Electric,108986,"Nagarjuna Hills, Hyderabad",999999,Home Test Drive
+41,MG Hector Sharp 1.5,MG,Hector,2022,Sharp 1.5,Petrol,43925,"Nagarjuna Hills, Hyderabad",1500000,Home Test Drive
+42,MG Hector Sharp 2.0,MG,Hector,2020,Sharp 2.0,Diesel,72249,"Nagarjuna Hills, Hyderabad",1250000,Home Test Drive
+43,MG Hector Sharp 1.5,MG,Hector,2021,Sharp 1.5,Petrol,42939,"Nagarjuna Hills, Hyderabad",1400000,Home Test Drive
+44,MG Astor Savvy 1.5,MG,Astor,2023,Savvy 1.5,Petrol,37922,"Nagarjuna Hills, Hyderabad",1399999,Home Test Drive
+45,MG Hector Sharp 2.0,MG,Hector,2021,Sharp 2.0,Diesel,132251,"Nagarjuna Hills, Hyderabad",1100000,Home Test Drive
+46,MG Hector Plus Sharp,MG,Hector,2020,Plus Sharp,Diesel,80372,"Nagarjuna Hills, Hyderabad",1350000,Home Test Drive
+47,MG Hector Plus Sharp,MG,Hector,2023,Plus Sharp,Diesel,35184,"Nagarjuna Hills, Hyderabad",1770000,Home Test Drive
+48,Tata Tiago Revotron XZA,Tata,Tiago,2019,Revotron XZA,Petrol,43133,"Hankimpet, Hyderabad",477000,Home Test Drive
+49,MG Hector Plus Sharp,MG,Hector,2021,Plus Sharp,Petrol,64908,"Nagarjuna Hills, Hyderabad",1400000,Home Test Drive
+50,MG Astor Sharp 1.5,MG,Astor,2022,Sharp 1.5,Petrol,34129,"Nagarjuna Hills, Hyderabad",1230000,Home Test Drive
+51,MG Hector Sharp Hybrid,MG,Hector,2020,Sharp Hybrid,Hybrid,69150,"Nagarjuna Hills, Hyderabad",1200000,Home Test Drive
+52,MG Hector Sharp 1.5,MG,Hector,2019,Sharp 1.5,Petrol,40642,"Nagarjuna Hills, Hyderabad",1200000,Home Test Drive
+53,MG Hector Sharp Pro,MG,Hector,2023,Sharp Pro,Petrol,27000,"Nagarjuna Hills, Hyderabad",1750000,Home Test Drive
+54,MG Astor Savvy 1.5,MG,Astor,2022,Savvy 1.5,Petrol,16891,"Nagarjuna Hills, Hyderabad",1350000,Home Test Drive
+55,Mahindra XUV500 W11 AT,Mahindra,XUV500,2018,W11 AT,Diesel,155785,"Uppal, Hyderabad",1150000,Home Test Drive
+56,MG Hector Plus Sharp,MG,Hector,2023,Plus Sharp,Diesel,35184,"Nagarjuna Hills, Hyderabad",1770000,Great Price
+57,Tata Tiago Revotron XZA,Tata,Tiago,2019,Revotron XZA,Petrol,43133,"Hankimpet, Hyderabad",477000,Home Test Drive
+58,MG Hector Plus Sharp,MG,Hector,2021,Plus Sharp,Petrol,64908,"Nagarjuna Hills, Hyderabad",1400000,Home Test Drive
+59,MG Astor Sharp 1.5,MG,Astor,2022,Sharp 1.5,Petrol,34129,"Nagarjuna Hills, Hyderabad",1230000,Home Test Drive
+60,MG Hector Sharp Pro,MG,Hector,2024,Sharp Pro,Petrol,6350,"Nagarjuna Hills, Hyderabad",2050000,Great Price
+61,Honda Mobilio RS(O) Diesel,Honda,Mobilio,2016,RS(O) Diesel,Diesel,134181,"Nagarjuna Hills, Hyderabad",460000,Home Test Drive
+62,Volkswagen Vento Highline Diesel,Volkswagen,Vento,2016,Highline Diesel,Diesel,80365,"Uppal, Hyderabad",600000,Home Test Drive
+63,Maruti Suzuki Celerio ZXi,Maruti,Suzuki,2015,Celerio ZXi,Petrol,94084,"Nagarjuna Hills, Hyderabad",300000,Home Test Drive
+64,Nissan Micra Active XV,Nissan,Micra,2016,Active XV,Petrol,38916,"Nagarjuna Hills, Hyderabad",450000,Home Test Drive
+65,Maruti Suzuki Baleno Alpha,Maruti,Suzuki,2022,Baleno Alpha,Petrol,28700,"Nagarjuna Hills, Hyderabad",800000,Home Test Drive
+66,Hyundai Creta SX Plus,Hyundai,Creta,2016,SX Plus,Petrol,79766,"Jubilee Hills, Hyderabad",778000,Home Test Drive
+67,Nissan Terrano XL (D),Nissan,Terrano,2016,XL (D),Diesel,103000,"Uppal, Hyderabad",545000,Home Test Drive
+68,Renault Kwid CLIMBER 1.0,Renault,Kwid,2019,CLIMBER 1.0,Petrol,36855,"Jubilee Hills, Hyderabad",408000,Home Test Drive
+69,Hyundai i20 Asta 1.0,Hyundai,i20,2021,Asta 1.0,Petrol,50272,"Nagarjuna Hills, Hyderabad",750000,Home Test Drive
+70,Toyota Vellfire VIP –,Toyota,Vellfire,2023,VIP –,Hybrid,40377,"Madhapur, Hyderabad",11000000,Home Test Drive
+71,MINI Cooper 1.6,MINI,Cooper,2013,1.6,Petrol,71331,"Madhapur, Hyderabad",1500000,Home Test Drive
+72,Jaguar XF 3.0 V6,Jaguar,XF,2014,3.0 V6,Diesel,77205,"Madhapur, Hyderabad",1850000,Home Test Drive
+73,Volkswagen Tiguan Comfortline TDI,Volkswagen,Tiguan,2018,Comfortline TDI,Diesel,68819,"Madhapur, Hyderabad",1950000,Home Test Drive
+74,BMW X1 sDrive20d xLine,BMW,X1,2019,sDrive20d xLine,Diesel,58803,"Madhapur, Hyderabad",2900000,Home Test Drive
+75,Mercedes-Benz GLC 220 d,Mercedes-Benz,GLC,2017,220 d,Diesel,110337,"Madhapur, Hyderabad",2900000,Home Test Drive
+76,BMW X7 xDrive30d DPE,BMW,X7,2021,xDrive30d DPE,Diesel,73934,"Madhapur, Hyderabad",9500000,Just Arrived
+77,MINI Countryman Cooper S,MINI,Countryman,2019,Cooper S,Petrol,25396,"Madhapur, Hyderabad",3000000,Home Test Drive
+78,Maruti Suzuki Vitara Brezza,Maruti,Suzuki,2016,Vitara Brezza,Diesel,73798,"Madhapur, Hyderabad",850000,Home Test Drive
+79,Maruti Suzuki Swift VXi,Maruti,Suzuki,2017,Swift VXi,Petrol,37333,"Madhapur, Hyderabad",550000,Home Test Drive
+80,MINI Countryman Cooper S,MINI,Countryman,2019,Cooper S,Petrol,25396,"Madhapur, Hyderabad",3000000,Just Arrived
+81,Maruti Suzuki Vitara Brezza,Maruti,Suzuki,2016,Vitara Brezza,Diesel,73798,"Madhapur, Hyderabad",850000,Home Test Drive
+82,Maruti Suzuki Swift VXi,Maruti,Suzuki,2017,Swift VXi,Petrol,37333,"Madhapur, Hyderabad",550000,Home Test Drive
+83,Mercedes-Benz C-Class C 220,Mercedes-Benz,C-Class,2020,C 220,Diesel,47191,"Madhapur, Hyderabad",3900000,Just Arrived
+84,Hyundai Creta SX 1.5,Hyundai,Creta,2021,SX 1.5,Petrol,35599,"Madhapur, Hyderabad",1500000,Home Test Drive
+85,Kia Carnival Limousine Plus,Kia,Carnival,2020,Limousine Plus,Diesel,40269,"Madhapur, Hyderabad",3200000,Home Test Drive
+86,Toyota Vellfire VIP –,Toyota,Vellfire,2023,VIP –,Hybrid,40377,"Madhapur, Hyderabad",11000000,Just Arrived
+87,Mercedes-Benz GLS 400d 4MATIC,Mercedes-Benz,GLS,2023,400d 4MATIC,Diesel,9500,"Attapur, Hyderabad",13500000,Just Arrived
+88,Mercedes-Benz GLC 220 d,Mercedes-Benz,GLC,2018,220 d,Diesel,126500,"Attapur, Hyderabad",2750000,Home Test Drive
+89,MG Astor Savvy 1.5,MG,Astor,2023,Savvy 1.5,Petrol,19762,"Nagarjuna Hills, Hyderabad",1399999,Home Test Drive
+90,Land Rover Range Rover,Land,Rover,2019,Range Rover,Diesel,86000,"Attapur, Hyderabad",12500000,Home Test Drive
+91,MG Astor Savvy 1.3,MG,Astor,2021,Savvy 1.3,Petrol,52862,"Nagarjuna Hills, Hyderabad",1150000,Home Test Drive
+92,Maruti Suzuki Baleno Alpha,Maruti,Suzuki,2016,Baleno Alpha,Petrol,60640,A P E,530000,Home Test Drive
+93,Tata Tiago Revotron XZ,Tata,Tiago,2019,Revotron XZ,Petrol,71522,"Old MLA Quarters,",401000,Home Test Drive
+94,Land Rover Range Rover,Land,Rover,2018,Range Rover,Diesel,115130,"Madhapur, Hyderabad",6200000,Home Test Drive
+95,Mahindra XUV500 W5 [2018-2020],Mahindra,XUV500,2020,W5 [2018-2020],Diesel,25774,"L B Nagar,",1122000,Home Test Drive
+96,Maruti Suzuki Baleno Alpha,Maruti,Suzuki,2017,Baleno Alpha,Petrol,47054,"Nagarjuna Hills, Hyderabad",530000,Home Test Drive
+97,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,26315,"Bellavista, Hyderabad",954000,Home Test Drive
+98,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2018,Ciaz Alpha,Diesel,70175,"Bellavista, Hyderabad",817000,Home Test Drive
+99,Audi A4 2.0 TDI,Audi,A4,2012,2.0 TDI,Diesel,84163,"Madhapur, Hyderabad",1200000,Home Test Drive
+100,Mahindra XUV700 AX 5,Mahindra,XUV700,2022,AX 5,Petrol,29992,"L B Nagar,",1755000,Home Test Drive
+101,MG Hector Sharp 1.5,MG,Hector,2022,Sharp 1.5,Petrol,35774,"L B Nagar,",1425000,Home Test Drive
+102,Honda Jazz V AT,Honda,Jazz,2017,V AT,Petrol,67385,"L B Nagar,",588000,Home Test Drive
+103,Toyota Innova Crysta 2.8,Toyota,Innova,2019,Crysta 2.8,Diesel,163994,"Uppal, Hyderabad",1785000,Home Test Drive
+104,Honda Jazz V AT,Honda,Jazz,2017,V AT,Petrol,67385,"L B Nagar,",588000,Home Test Drive
+105,Mahindra XUV700 AX 5,Mahindra,XUV700,2022,AX 5,Petrol,29992,"L B Nagar,",1755000,Home Test Drive
+106,MG Hector Sharp 1.5,MG,Hector,2022,Sharp 1.5,Petrol,35774,"L B Nagar,",1425000,Just Arrived
+107,Toyota Innova Crysta 2.8,Toyota,Innova,2019,Crysta 2.8,Diesel,163994,"Uppal, Hyderabad",1785000,Just Arrived
+108,MG ZS EV Exclusive,MG,ZS,2022,EV Exclusive,Electric,55582,"Nagarjuna Hills, Hyderabad",1500000,Home Test Drive
+109,MG Hector Sharp 1.5,MG,Hector,2021,Sharp 1.5,Petrol,40334,"Nagarjuna Hills, Hyderabad",1400000,Just Arrived
+110,MG Hector Sharp 1.5,MG,Hector,2021,Sharp 1.5,Petrol,30190,"Nagarjuna Hills, Hyderabad",1400000,Just Arrived
+111,Maruti Suzuki Jimny Zeta,Maruti,Suzuki,2023,Jimny Zeta,Petrol,5660,"Madhapur, Hyderabad",1400000,Just Arrived
+112,Toyota Innova Hycross VX,Toyota,Innova,2023,Hycross VX,Hybrid,16286,"Madhapur, Hyderabad",3200000,Home Test Drive
+113,BMW X3 xDrive 30d,BMW,X3,2016,xDrive 30d,Diesel,70152,"Madhapur, Hyderabad",2900000,Just Arrived
+114,Tata Tiago Revotron XZA,Tata,Tiago,2019,Revotron XZA,Petrol,29294,"L B Nagar,",574000,Home Test Drive
+115,Maruti Suzuki XL6 Alpha,Maruti,Suzuki,2022,XL6 Alpha,Petrol,42504,"Madhapur, Hyderabad",1300000,Home Test Drive
+116,Jeep Compass Sport 1.4,Jeep,Compass,2018,Sport 1.4,Petrol,37580,"Nagarjuna Hills, Hyderabad",1040000,Home Test Drive
+117,Maruti Suzuki Brezza VXi,Maruti,Suzuki,2024,Brezza VXi,Petrol,3760,"Madhapur, Hyderabad",1150000,Home Test Drive
+118,MG Hector Plus Sharp,MG,Hector,2020,Plus Sharp,Diesel,95469,"Nagarjuna Hills, Hyderabad",1250000,Home Test Drive
+119,MG Hector Sharp Pro,MG,Hector,2023,Sharp Pro,Petrol,34552,"Nagarjuna Hills, Hyderabad",1699999,Just Arrived
+120,BMW 3 Series 320d,BMW,3,2012,Series 320d,Diesel,110796,"Madhapur, Hyderabad",1200000,Home Test Drive
+121,Mercedes-Benz C-Class 220 CDI,Mercedes-Benz,C-Class,2008,220 CDI,Petrol,190941,"Madhapur, Hyderabad",750000,Just Arrived
+122,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2019,Dzire VXi,Petrol,69782,"Hankimpet, Hyderabad",536000,Just Arrived
+123,Toyota Fortuner 3.0 4x4,Toyota,Fortuner,2015,3.0 4x4,Diesel,215415,"Madhapur, Hyderabad",1700000,Home Test Drive
+124,MG Hector Sharp 2.0,MG,Hector,2019,Sharp 2.0,Diesel,84959,"Nagarjuna Hills, Hyderabad",1200000,Just Arrived
+125,MG Hector Sharp 2.0,MG,Hector,2021,Sharp 2.0,Diesel,77238,"Nagarjuna Hills, Hyderabad",1200000,Just Arrived
+126,Jaguar XF Portfolio Diesel,Jaguar,XF,2016,Portfolio Diesel,Diesel,92214,"Madhapur, Hyderabad",2300000,Just Arrived
+127,Hyundai Creta SX (O),Hyundai,Creta,2021,SX (O),Diesel,82696,"Madhapur, Hyderabad",1700000,Just Arrived
+128,MG Hector Sharp 2.0,MG,Hector,2019,Sharp 2.0,Diesel,84959,"Nagarjuna Hills, Hyderabad",1200000,Just Arrived
+129,MG Hector Sharp 2.0,MG,Hector,2021,Sharp 2.0,Diesel,77238,"Nagarjuna Hills, Hyderabad",1200000,Just Arrived
+130,Jaguar XF Portfolio Diesel,Jaguar,XF,2016,Portfolio Diesel,Diesel,92214,"Madhapur, Hyderabad",2300000,Home Test Drive
+131,Hyundai Creta SX (O),Hyundai,Creta,2021,SX (O),Diesel,82696,"Madhapur, Hyderabad",1700000,Home Test Drive
+132,Skoda Octavia 1.8 TSI,Skoda,Octavia,2018,1.8 TSI,Petrol,65756,"Madhapur, Hyderabad",1750000,Home Test Drive
+133,MG Gloster Savvy 6,MG,Gloster,2020,Savvy 6,Diesel,63809,"Madhapur, Hyderabad",2950000,Home Test Drive
+134,Toyota Innova Crysta ZX,Toyota,Innova,2021,Crysta ZX,Diesel,44726,"Madhapur, Hyderabad",2650000,Home Test Drive
+135,Maruti Suzuki Dzire ZXi,Maruti,Suzuki,2020,Dzire ZXi,Petrol,51225,"L B Nagar,",688000,Home Test Drive
+136,Maruti Suzuki Ciaz VXi+,Maruti,Suzuki,2016,Ciaz VXi+,Petrol,37888,"Hankimpet, Hyderabad",606000,Home Test Drive
+137,Hyundai Venue S 1.2,Hyundai,Venue,2022,S 1.2,Petrol,27322,"Hankimpet, Hyderabad",735000,Home Test Drive
+138,Tata Nexon XZ Plus,Tata,Nexon,2021,XZ Plus,Petrol,55989,"Hankimpet, Hyderabad",760000,Home Test Drive
+139,Tata Nexon XZA Plus,Tata,Nexon,2021,XZA Plus,Petrol,35385,"Hankimpet, Hyderabad",816000,Home Test Drive
+140,Tata Tiago Revotron XZA,Tata,Tiago,2020,Revotron XZA,Petrol,37398,"L B Nagar,",596000,Home Test Drive
+141,Tata Tiago Revotron XZA,Tata,Tiago,2020,Revotron XZA,Petrol,76100,A P E,523000,Home Test Drive
+142,Tata Nexon XM,Tata,Nexon,2018,XM,Petrol,33875,"L B Nagar,",646000,Home Test Drive
+143,Nissan Magnite XV Premium,Nissan,Magnite,2021,XV Premium,Petrol,23462,A P E,791200,Home Test Drive
+144,Ford EcoSport Titanium +,Ford,EcoSport,2021,Titanium +,Diesel,21933,"L B Nagar,",1036000,Home Test Drive
+145,Hyundai Grand i10 Nios,Hyundai,Grand,2021,i10 Nios,Petrol,55902,"L B Nagar,",659100,Home Test Drive
+146,Tata Nexon XMA Petrol,Tata,Nexon,2019,XMA Petrol,Petrol,79029,"Hankimpet, Hyderabad",680000,Home Test Drive
+147,Maruti Suzuki Ciaz Delta,Maruti,Suzuki,2017,Ciaz Delta,Petrol,52946,A P E,547000,Home Test Drive
+148,Tata Tiago Revotron XZA,Tata,Tiago,2022,Revotron XZA,Petrol,47680,"Hankimpet, Hyderabad",617000,Home Test Drive
+149,Kia Sonet HTK Plus,Kia,Sonet,2021,HTK Plus,Diesel,61859,"L B Nagar,",993000,Home Test Drive
+150,Kia Carens Premium 1.4,Kia,Carens,2022,Premium 1.4,Petrol,35300,"L B Nagar,",952000,Home Test Drive
+151,Tata Nexon XZ Plus,Tata,Nexon,2022,XZ Plus,Petrol,73120,"Old MLA Quarters,",879000,Home Test Drive
+152,Tata Nexon XZ Plus,Tata,Nexon,2021,XZ Plus,Petrol,55989,"Hankimpet, Hyderabad",760000,Home Test Drive
+153,Hyundai Venue S 1.2,Hyundai,Venue,2022,S 1.2,Petrol,27322,"Hankimpet, Hyderabad",735000,Home Test Drive
+154,Ford EcoSport Titanium +,Ford,EcoSport,2021,Titanium +,Diesel,21933,"L B Nagar,",1036000,Home Test Drive
+155,Kia Seltos HTK Plus,Kia,Seltos,2021,HTK Plus,Petrol,45294,"L B Nagar,",1022000,Home Test Drive
+156,Maruti Suzuki Ciaz Delta,Maruti,Suzuki,2017,Ciaz Delta,Petrol,52946,A P E,547000,Home Test Drive
+157,Tata Tiago Revotron XZA,Tata,Tiago,2022,Revotron XZA,Petrol,47680,"Hankimpet, Hyderabad",617000,Home Test Drive
+158,Hyundai Venue SX 1.0,Hyundai,Venue,2021,SX 1.0,Petrol,57341,A P E,771000,Home Test Drive
+159,Hyundai Grand i10 Nios,Hyundai,Grand,2021,i10 Nios,Petrol,55902,"L B Nagar,",659100,Home Test Drive
+160,Tata Nexon XMA Petrol,Tata,Nexon,2019,XMA Petrol,Petrol,79029,"Hankimpet, Hyderabad",680000,Home Test Drive
+161,Kia Sonet HTK Plus,Kia,Sonet,2021,HTK Plus,Diesel,61859,"L B Nagar,",993000,Home Test Drive
+162,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2021,Titanium 1.5L,Petrol,47640,"Hankimpet, Hyderabad",821000,Home Test Drive
+163,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2019,Dzire VXi,Petrol,69782,A P E,536000,Home Test Drive
+164,Tata Nexon XZA Plus,Tata,Nexon,2018,XZA Plus,Diesel,52978,"Hankimpet, Hyderabad",811000,Home Test Drive
+165,Maruti Suzuki Dzire ZDi,Maruti,Suzuki,2018,Dzire ZDi,Diesel,61245,"Hankimpet, Hyderabad",702000,Home Test Drive
+166,Maruti Suzuki Ignis Zeta,Maruti,Suzuki,2022,Ignis Zeta,Petrol,15396,"L B Nagar,",593100,Home Test Drive
+167,Nissan Magnite XV Premium,Nissan,Magnite,2021,XV Premium,Petrol,30931,"Hankimpet, Hyderabad",686000,Home Test Drive
+168,Tata Nexon XZ Plus,Tata,Nexon,2018,XZ Plus,Petrol,60903,"L B Nagar,",700000,Home Test Drive
+169,Tata Nexon XM,Tata,Nexon,2019,XM,Petrol,12056,"L B Nagar,",729000,Home Test Drive
+170,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2017,Dzire VXi,Petrol,54376,"Old MLA Quarters,",484000,Home Test Drive
+171,Renault Kwid RXT 1.0,Renault,Kwid,2018,RXT 1.0,Petrol,6098,"Hankimpet, Hyderabad",360000,Home Test Drive
+172,Mahindra Thar LX Hard,Mahindra,Thar,2021,LX Hard,Petrol,67241,"Old MLA Quarters,",1244000,Home Test Drive
+173,Renault Triber RXT EASY-R,Renault,Triber,2020,RXT EASY-R,Petrol,46015,"L B Nagar,",551000,Home Test Drive
+174,Renault Kwid 1.0 RXT,Renault,Kwid,2019,1.0 RXT,Petrol,64796,"Old MLA Quarters,",310000,Home Test Drive
+175,Tata Tiago Revotron XZ,Tata,Tiago,2021,Revotron XZ,Petrol,38750,"Old MLA Quarters,",528000,Home Test Drive
+176,Tata Nexon XZA Plus,Tata,Nexon,2019,XZA Plus,Petrol,77808,"Old MLA Quarters,",737000,Home Test Drive
+177,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2021,Titanium 1.5L,Petrol,47640,"Hankimpet, Hyderabad",821000,Home Test Drive
+178,Tata Nexon XZ Plus,Tata,Nexon,2018,XZ Plus,Petrol,60903,"L B Nagar,",700000,Home Test Drive
+179,Tata Nexon XM,Tata,Nexon,2019,XM,Petrol,12056,"L B Nagar,",729000,Home Test Drive
+180,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2017,Dzire VXi,Petrol,54376,"Old MLA Quarters,",484000,Home Test Drive
+181,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2021,Titanium 1.5L,Diesel,67264,"Hankimpet, Hyderabad",841000,Home Test Drive
+182,Kia Sonet HTX Plus,Kia,Sonet,2020,HTX Plus,Diesel,71797,A P E,941000,Home Test Drive
+183,Volkswagen Polo GT TSI,Volkswagen,Polo,2021,GT TSI,Petrol,29769,"Hankimpet, Hyderabad",818000,Home Test Drive
+184,Renault Kwid 1.0 RXT,Renault,Kwid,2018,1.0 RXT,Petrol,26244,"Hankimpet, Hyderabad",342000,Home Test Drive
+185,Maruti Suzuki Swift Dzire,Maruti,Suzuki,2016,Swift Dzire,Diesel,67569,"L B Nagar,",614000,Home Test Drive
+186,Nissan Magnite XV Turbo,Nissan,Magnite,2023,XV Turbo,Petrol,29184,"Old MLA Quarters,",754000,Home Test Drive
+187,Hyundai Venue SX (O),Hyundai,Venue,2021,SX (O),Petrol,69424,"Hankimpet, Hyderabad",798000,Home Test Drive
+188,Tata Nexon XZA Plus,Tata,Nexon,2019,XZA Plus,Petrol,78517,A P E,745000,Home Test Drive
+189,Tata Tiago XZ Plus,Tata,Tiago,2021,XZ Plus,Petrol,37509,"L B Nagar,",560000,Home Test Drive
+190,Maruti Suzuki XL6 Zeta,Maruti,Suzuki,2021,XL6 Zeta,Petrol,50161,"Hankimpet, Hyderabad",928000,Home Test Drive
+191,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2020,Dzire VXi,Petrol,65289,A P E,573000,Home Test Drive
+192,Renault Kwid CLIMBER 1.0,Renault,Kwid,2018,CLIMBER 1.0,Petrol,46621,A P E,330000,Home Test Drive
+193,Hyundai Creta SX 1.5,Hyundai,Creta,2020,SX 1.5,Petrol,64974,"Hankimpet, Hyderabad",1043000,Home Test Drive
+194,Honda City 4th Generation,Honda,City,2018,4th Generation,Petrol,51987,"Madhapur, Hyderabad",950000,Home Test Drive
+195,Hyundai Creta 1.6 SX,Hyundai,Creta,2016,1.6 SX,Petrol,54398,A P E,785000,Home Test Drive
+196,Nissan Magnite XV Premium,Nissan,Magnite,2021,XV Premium,Petrol,47856,"Beerappagadda, Hyderabad",874000,Home Test Drive
+197,Hyundai i10 Sportz 1.1,Hyundai,i10,2015,Sportz 1.1,LPG,44179,"Jubilee Hills, Hyderabad",373000,Home Test Drive
+198,Volkswagen Polo Highline1.5L (D),Volkswagen,Polo,2014,Highline1.5L (D),Diesel,91547,"Uppal, Hyderabad",445000,Great Price
+199,Volkswagen Ameo Comfortline 1.2L,Volkswagen,Ameo,2016,Comfortline 1.2L,Petrol,64259,"Nagarjuna Hills, Hyderabad",450000,Home Test Drive
+200,Nissan Magnite XV Premium,Nissan,Magnite,2021,XV Premium,Petrol,47856,"Beerappagadda, Hyderabad",874000,Home Test Drive
+201,Hyundai i10 Sportz 1.1,Hyundai,i10,2015,Sportz 1.1,LPG,44179,"Jubilee Hills, Hyderabad",373000,Home Test Drive
+202,Mahindra Thar LX Hard,Mahindra,Thar,2021,LX Hard,Petrol,29599,"Jntu Kukat Pally,",1290585,Home Test Drive
+203,Hyundai Elite i20 Sportz,Hyundai,Elite,2015,i20 Sportz,Petrol,82359,"Uppal, Hyderabad",495000,Home Test Drive
+204,Mahindra Marazzo M2 8,Mahindra,Marazzo,2018,M2 8,Diesel,109496,"Uppal, Hyderabad",850000,Home Test Drive
+205,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2022,Dzire VXi,Petrol,38791,"Uppal, Hyderabad",699999,Home Test Drive
+206,MG Comet EV Plush,MG,Comet,2023,EV Plush,Electric,15573,"Nagarjuna Hills, Hyderabad",700000,Home Test Drive
+207,Hyundai i10 Sportz 1.2,Hyundai,i10,2010,Sportz 1.2,Petrol,41151,"Uppal, Hyderabad",265000,Home Test Drive
+208,Maruti Suzuki Celerio VXi,Maruti,Suzuki,2016,Celerio VXi,Petrol,70759,"Uppal, Hyderabad",420000,Home Test Drive
+209,Maruti Suzuki Celerio ZXi,Maruti,Suzuki,2016,Celerio ZXi,Petrol,65311,"Uppal, Hyderabad",415000,Home Test Drive
+210,Hyundai Venue SX 1.5,Hyundai,Venue,2021,SX 1.5,Diesel,72668,"Uppal, Hyderabad",960000,Home Test Drive
+211,Volkswagen Polo Highline1.5L (D),Volkswagen,Polo,2014,Highline1.5L (D),Diesel,91547,"Uppal, Hyderabad",445000,Home Test Drive
+212,Volkswagen Ameo Comfortline 1.2L,Volkswagen,Ameo,2016,Comfortline 1.2L,Petrol,64259,"Nagarjuna Hills, Hyderabad",450000,Home Test Drive
+213,Hyundai i10 Sportz 1.1,Hyundai,i10,2014,Sportz 1.1,LPG,46868,"Jubilee Hills, Hyderabad",350000,Just Arrived
+214,Volkswagen Taigun Highline 1.0,Volkswagen,Taigun,2022,Highline 1.0,Petrol,31334,"Jntu Kukat Pally,",1196724,Home Test Drive
+215,Maruti Suzuki Dzire ZDi,Maruti,Suzuki,2018,Dzire ZDi,Diesel,78962,"Bellavista, Hyderabad",755000,Just Arrived
+216,Hyundai Creta 1.6 SX,Hyundai,Creta,2018,1.6 SX,Petrol,54336,"Jntu Kukat Pally,",921000,Home Test Drive
+217,Hyundai Creta 1.6 SX,Hyundai,Creta,2018,1.6 SX,Petrol,54336,"Bellavista, Hyderabad",921000,Home Test Drive
+218,Hyundai Verna SX (O),Hyundai,Verna,2017,SX (O),Diesel,79731,"Beerappagadda, Hyderabad",778000,Home Test Drive
+219,Hyundai Verna SX 1.5,Hyundai,Verna,2021,SX 1.5,Petrol,46280,"Beerappagadda, Hyderabad",974000,Just Arrived
+220,Maruti Suzuki Dzire ZDi,Maruti,Suzuki,2018,Dzire ZDi,Diesel,78962,"Beerappagadda, Hyderabad",755000,Just Arrived
+221,Maruti Suzuki Wagon R,Maruti,Suzuki,2022,Wagon R,Petrol,49584,"Beerappagadda, Hyderabad",562000,Home Test Drive
+222,Hyundai Venue S Plus,Hyundai,Venue,2021,S Plus,Petrol,35352,"Beerappagadda, Hyderabad",764000,Home Test Drive
+223,Tata Tiago Revotron XE,Tata,Tiago,2020,Revotron XE,Petrol,6080,"Bellavista, Hyderabad",429000,Home Test Drive
+224,Hyundai Verna SX (O),Hyundai,Verna,2017,SX (O),Diesel,79731,"Beerappagadda, Hyderabad",778000,Home Test Drive
+225,Hyundai Venue S Plus,Hyundai,Venue,2021,S Plus,Petrol,35352,"Beerappagadda, Hyderabad",764000,Home Test Drive
+226,Maruti Suzuki Wagon R,Maruti,Suzuki,2022,Wagon R,Petrol,49584,"Beerappagadda, Hyderabad",562000,Home Test Drive
+227,Tata Tiago Revotron XE,Tata,Tiago,2020,Revotron XE,Petrol,6080,"Bellavista, Hyderabad",429000,Home Test Drive
+228,Tata Nexon XZA Plus,Tata,Nexon,2021,XZA Plus,Petrol,32326,"Jntu Kukat Pally,",955000,Home Test Drive
+229,Audi A4 Technology 40,Audi,A4,2021,Technology 40,Petrol,61322,"Madhapur, Hyderabad",3400000,Home Test Drive
+230,Maruti Suzuki Ertiga VXI,Maruti,Suzuki,2022,Ertiga VXI,Petrol,53943,"Madhapur, Hyderabad",1250000,Home Test Drive
+231,Audi Q5 40 TDI,Audi,Q5,2019,40 TDI,Diesel,76659,"Madhapur, Hyderabad",3700000,Home Test Drive
+232,Toyota Etios Liva GD,Toyota,Etios,2016,Liva GD,Diesel,57983,"Madhapur, Hyderabad",650000,Home Test Drive
+233,Maruti Suzuki XL6 Zeta,Maruti,Suzuki,2023,XL6 Zeta,Petrol,33175,"Jntu Kukat Pally,",1239173,Home Test Drive
+234,Maruti Suzuki Ertiga ZXi,Maruti,Suzuki,2023,Ertiga ZXi,Petrol,18241,"Jntu Kukat Pally,",1132068,Home Test Drive
+235,Nissan Magnite XV Turbo,Nissan,Magnite,2021,XV Turbo,Petrol,39223,"Beerappagadda, Hyderabad",789000,Great Price
+236,Ford Figo Duratec Petrol,Ford,Figo,2011,Duratec Petrol,Petrol,58062,"Bellavista, Hyderabad",215000,Home Test Drive
+237,Maruti Suzuki Ertiga ZDI,Maruti,Suzuki,2015,Ertiga ZDI,Diesel,75573,"Bellavista, Hyderabad",678000,Great Price
+238,Kia Seltos GTX Plus,Kia,Seltos,2020,GTX Plus,Petrol,36620,"Jntu Kukat Pally,",1395723,Home Test Drive
+239,Hyundai Creta SX (O),Hyundai,Creta,2024,SX (O),Petrol,13927,"Jntu Kukat Pally,",1783544,Home Test Drive
+240,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2021,Ciaz Alpha,Petrol,32203,"Beerappagadda, Hyderabad",926000,Home Test Drive
+241,Hyundai Eon Era +,Hyundai,Eon,2017,Era +,Petrol,50867,"Bellavista, Hyderabad",288000,Home Test Drive
+242,Hyundai Venue SX 1.2,Hyundai,Venue,2022,SX 1.2,Petrol,29446,"Beerappagadda, Hyderabad",965000,Home Test Drive
+243,Tata Altroz XZ Petrol,Tata,Altroz,2021,XZ Petrol,Petrol,50140,"Jubilee Hills, Hyderabad",767000,Home Test Drive
+244,Maruti Suzuki S-Cross Zeta,Maruti,Suzuki,2017,S-Cross Zeta,Diesel,72921,"Nagarjuna Hills, Hyderabad",600000,Home Test Drive
+245,Volkswagen Virtus GT Plus,Volkswagen,Virtus,2022,GT Plus,Petrol,21939,"Madhapur, Hyderabad",1900000,Home Test Drive
+246,Kia Sonet HTX Plus,Kia,Sonet,2021,HTX Plus,Petrol,70963,"Bellavista, Hyderabad",951000,Home Test Drive
+247,Tata Nexon XMA Plus,Tata,Nexon,2023,XMA Plus,Petrol,31989,"Bellavista, Hyderabad",990000,Home Test Drive
+248,Kia Sonet HTX Plus,Kia,Sonet,2021,HTX Plus,Petrol,70963,"Bellavista, Hyderabad",951000,Home Test Drive
+249,Renault Kwid 1.0 RXT,Renault,Kwid,2016,1.0 RXT,Petrol,71425,"Bellavista, Hyderabad",275000,Home Test Drive
+250,Hyundai Venue SX (O),Hyundai,Venue,2022,SX (O),Diesel,22837,"Jntu Kukat Pally,",1172468,Home Test Drive
+251,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,26087,"Beerappagadda, Hyderabad",945000,Home Test Drive
+252,Renault Kwid 1.0 RXT,Renault,Kwid,2020,1.0 RXT,Petrol,51303,"Jubilee Hills, Hyderabad",375000,Home Test Drive
+253,Maruti Suzuki S-Cross Zeta,Maruti,Suzuki,2017,S-Cross Zeta,Diesel,72921,"Nagarjuna Hills, Hyderabad",600000,Home Test Drive
+254,Volkswagen Virtus GT Plus,Volkswagen,Virtus,2022,GT Plus,Petrol,21939,"Madhapur, Hyderabad",1900000,Home Test Drive
+255,Tata Nexon XMA Plus,Tata,Nexon,2023,XMA Plus,Petrol,31989,"Bellavista, Hyderabad",990000,Home Test Drive
+256,Maruti Suzuki XL6 Zeta,Maruti,Suzuki,2024,XL6 Zeta,Petrol,16329,"Jntu Kukat Pally,",1187663,Home Test Drive
+257,Ford EcoSport Trend +,Ford,EcoSport,2018,Trend +,Diesel,67108,"Bellavista, Hyderabad",722000,Home Test Drive
+258,Mercedes-Benz C-Class C 220,Mercedes-Benz,C-Class,2017,C 220,Diesel,17000,"Nagarjuna Hills, Hyderabad",2700000,Home Test Drive
+259,Mahindra Thar LX Hard,Mahindra,Thar,2022,LX Hard,Diesel,14706,"Jntu Kukat Pally,",1528945,Home Test Drive
+260,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,52515,"Jntu Kukat Pally,",874000,Home Test Drive
+261,Tata Nexon XZA Plus,Tata,Nexon,2018,XZA Plus,Petrol,71175,"Bellavista, Hyderabad",768000,Home Test Drive
+262,Maruti Suzuki Wagon R,Maruti,Suzuki,2022,Wagon R,CNG,25575,"Beerappagadda, Hyderabad",609000,Home Test Drive
+263,Hyundai Venue SX (O),Hyundai,Venue,2019,SX (O),Petrol,51314,"Bellavista, Hyderabad",797000,Home Test Drive
+264,Hyundai Venue SX Plus,Hyundai,Venue,2020,SX Plus,Petrol,34100,"Bellavista, Hyderabad",942000,Home Test Drive
+265,Hyundai Creta SX Plus,Hyundai,Creta,2016,SX Plus,Petrol,39230,"Beerappagadda, Hyderabad",860000,Home Test Drive
+266,Toyota Innova Hycross VX,Toyota,Innova,2025,Hycross VX,Hybrid,890,"Madhapur, Hyderabad",3900000,Home Test Drive
+267,Mahindra Thar LX Convertible,Mahindra,Thar,2022,LX Convertible,Diesel,24088,"Jntu Kukat Pally,",1478902,Home Test Drive
+268,Kia Carnival Prestige 7,Kia,Carnival,2020,Prestige 7,Diesel,57147,"Madhapur, Hyderabad",2850000,Home Test Drive
+269,Maruti Suzuki XL6 Alpha,Maruti,Suzuki,2020,XL6 Alpha,Petrol,64613,"Bellavista, Hyderabad",967000,Home Test Drive
+270,Land Rover Defender 110,Land,Rover,2020,Defender 110,Petrol,56000,"Madhapur, Hyderabad",9500000,Home Test Drive
+271,Renault Kwid 1.0 RXT,Renault,Kwid,2021,1.0 RXT,Petrol,18528,"Beerappagadda, Hyderabad",439000,Home Test Drive
+272,Maruti Suzuki XL6 Alpha,Maruti,Suzuki,2019,XL6 Alpha,Petrol,65328,"Jntu Kukat Pally,",893000,Home Test Drive
+273,Tata Altroz XZ Petrol,Tata,Altroz,2022,XZ Petrol,Petrol,62341,"Bellavista, Hyderabad",770000,Home Test Drive
+274,Kia Carnival Prestige 7,Kia,Carnival,2020,Prestige 7,Diesel,57147,"Madhapur, Hyderabad",2850000,Home Test Drive
+275,Maruti Suzuki XL6 Alpha,Maruti,Suzuki,2020,XL6 Alpha,Petrol,64613,"Bellavista, Hyderabad",967000,Home Test Drive
+276,Land Rover Defender 110,Land,Rover,2020,Defender 110,Petrol,56000,"Madhapur, Hyderabad",9500000,Home Test Drive
+277,Renault Kwid 1.0 RXT,Renault,Kwid,2021,1.0 RXT,Petrol,18528,"Beerappagadda, Hyderabad",439000,Home Test Drive
+278,Jaguar XE Portfolio Diesel,Jaguar,XE,2018,Portfolio Diesel,Diesel,44000,"Madhapur, Hyderabad",2800000,Home Test Drive
+279,Hyundai Venue S Plus,Hyundai,Venue,2022,S Plus,Petrol,23376,"Jubilee Hills, Hyderabad",828000,Home Test Drive
+280,Hyundai Venue SX (O),Hyundai,Venue,2023,SX (O),Petrol,24811,"Jntu Kukat Pally,",1196753,Home Test Drive
+281,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2017,Titanium 1.5L,Petrol,75856,"Bellavista, Hyderabad",689000,Home Test Drive
+282,Hyundai Venue SX Plus,Hyundai,Venue,2019,SX Plus,Petrol,63556,"Beerappagadda, Hyderabad",804000,Home Test Drive
+283,Tata Nexon XZ Plus,Tata,Nexon,2021,XZ Plus,Diesel,67871,"Beerappagadda, Hyderabad",980000,Home Test Drive
+284,Hyundai Creta 1.4 S,Hyundai,Creta,2019,1.4 S,Diesel,63354,"Beerappagadda, Hyderabad",1083588,Home Test Drive
+285,Hyundai Creta SX Plus,Hyundai,Creta,2016,SX Plus,Petrol,39230,"Bellavista, Hyderabad",860000,Home Test Drive
+286,Nissan Magnite XV Premium,Nissan,Magnite,2021,XV Premium,Petrol,42153,"Bellavista, Hyderabad",646000,Home Test Drive
+287,Hyundai i20 Sportz 1.2,Hyundai,i20,2021,Sportz 1.2,Petrol,45526,"Beerappagadda, Hyderabad",652000,Home Test Drive
+288,Mercedes-Benz GLA 220d [2021-2023],Mercedes-Benz,GLA,2023,220d [2021-2023],Diesel,20200,"Madhapur, Hyderabad",4500000,Home Test Drive
+289,Mercedes-Benz GLE 450 4MATIC,Mercedes-Benz,GLE,2024,450 4MATIC,Petrol,9211,"Madhapur, Hyderabad",12800000,Home Test Drive
+290,Mercedes-Benz S-Class Maybach S,Mercedes-Benz,S-Class,2016,Maybach S,Petrol,64433,"Madhapur, Hyderabad",7500000,Home Test Drive
+291,Mercedes-Benz GLA 200 Sport,Mercedes-Benz,GLA,2017,200 Sport,Petrol,40000,"Madhapur, Hyderabad",2350000,Home Test Drive
+292,Maruti Suzuki Dzire ZDi,Maruti,Suzuki,2018,Dzire ZDi,Diesel,60327,"Bellavista, Hyderabad",717000,Home Test Drive
+293,Hyundai Creta EX 1.5,Hyundai,Creta,2023,EX 1.5,Petrol,30703,"Jntu Kukat Pally,",1127018,Home Test Drive
+294,MG Hector Sharp 2.0,MG,Hector,2020,Sharp 2.0,Diesel,94133,"Nagarjuna Hills, Hyderabad",1250000,Great Price
+295,Hyundai Venue SX Plus,Hyundai,Venue,2021,SX Plus,Petrol,27874,"Beerappagadda, Hyderabad",1043233,Home Test Drive
+296,Maruti Suzuki Dzire ZDi,Maruti,Suzuki,2018,Dzire ZDi,Diesel,60327,"Bellavista, Hyderabad",717000,Home Test Drive
+297,Hyundai Creta EX 1.5,Hyundai,Creta,2023,EX 1.5,Petrol,30703,"Jntu Kukat Pally,",1127018,Home Test Drive
+298,MG Hector Sharp 2.0,MG,Hector,2020,Sharp 2.0,Diesel,94133,"Nagarjuna Hills, Hyderabad",1250000,Home Test Drive
+299,Hyundai Venue SX Plus,Hyundai,Venue,2021,SX Plus,Petrol,27874,"Beerappagadda, Hyderabad",1043233,Home Test Drive
+300,Tata Nexon XZ Plus,Tata,Nexon,2021,XZ Plus,Petrol,65041,"Bellavista, Hyderabad",881000,Home Test Drive
+301,Volkswagen Polo Trendline 1.0L,Volkswagen,Polo,2021,Trendline 1.0L,Petrol,44457,"Madhapur, Hyderabad",800000,Home Test Drive
+302,Nissan Magnite XV [2020],Nissan,Magnite,2021,XV [2020],Petrol,61183,"Jubilee Hills, Hyderabad",570000,Home Test Drive
+303,Mahindra Thar LX Hard,Mahindra,Thar,2021,LX Hard,Diesel,43902,"Jntu Kukat Pally,",1354215,Home Test Drive
+304,Tata Nexon XZA Plus,Tata,Nexon,2021,XZA Plus,Petrol,33690,"Bellavista, Hyderabad",931000,Home Test Drive
+305,Hyundai Eon Era +,Hyundai,Eon,2012,Era +,Petrol,69724,"Beerappagadda, Hyderabad",197000,Home Test Drive
+306,Renault Kwid 1.0 RXT,Renault,Kwid,2017,1.0 RXT,Petrol,49111,"Beerappagadda, Hyderabad",295000,Home Test Drive
+307,Volvo XC90 D5 Inscription,Volvo,XC90,2020,D5 Inscription,Diesel,79000,"Madhapur, Hyderabad",6500000,
+308,Audi A3 35 TFSI,Audi,A3,2018,35 TFSI,Petrol,37000,"Madhapur, Hyderabad",1900000,
+309,Mercedes-Benz S-Class (W222) S,Mercedes-Benz,S-Class,2022,(W222) S,Diesel,70000,"Madhapur, Hyderabad",9900000,
+310,Tata Harrier Fearless Plus,Tata,Harrier,2024,Fearless Plus,Diesel,5000,"Madhapur, Hyderabad",2600000,
+311,Audi S5 Sportback 3.0,Audi,S5,2019,Sportback 3.0,Petrol,27000,"Madhapur, Hyderabad",5000000,
+312,BMW X5 xDrive 30d,BMW,X5,2015,xDrive 30d,Diesel,98000,"Madhapur, Hyderabad",2900000,
+313,BMW 3 Series GT,BMW,3,2019,Series GT,Diesel,45000,"Madhapur, Hyderabad",3500000,
+314,BMW X1 sDrive20d xLine,BMW,X1,2016,sDrive20d xLine,Diesel,64000,"Madhapur, Hyderabad",1950000,
+315,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2019,C 220d,Diesel,88000,"Madhapur, Hyderabad",2900000,
+316,Mercedes-Benz CLA 200 CDI,Mercedes-Benz,CLA,2018,200 CDI,Diesel,50000,"Madhapur, Hyderabad",2600000,
+317,Land Rover Range Rover,Land,Rover,2021,Range Rover,Diesel,98000,"Madhapur, Hyderabad",7300000,
+318,Mercedes-Benz E-Class E 220d,Mercedes-Benz,E-Class,2021,E 220d,Diesel,44000,"Madhapur, Hyderabad",6000000,
+319,Skoda Superb Sportline AT,Skoda,Superb,2020,Sportline AT,Petrol,36000,"Madhapur, Hyderabad",3500000,
+320,Mercedes-Benz CLA 200 CDI,Mercedes-Benz,CLA,2018,200 CDI,Diesel,50000,"Madhapur, Hyderabad",2600000,
+321,Land Rover Range Rover,Land,Rover,2021,Range Rover,Diesel,98000,"Madhapur, Hyderabad",7300000,
+322,Mercedes-Benz E-Class E 220d,Mercedes-Benz,E-Class,2021,E 220d,Diesel,44000,"Madhapur, Hyderabad",6000000,
+323,Skoda Superb Sportline AT,Skoda,Superb,2020,Sportline AT,Petrol,36000,"Madhapur, Hyderabad",3500000,
+324,Volvo XC90 D5 AWD,Volvo,XC90,2016,D5 AWD,Diesel,94230,"Madhapur, Hyderabad",3750000,
+325,Hyundai Creta 1.6 SX,Hyundai,Creta,2017,1.6 SX,Petrol,74756,"Jntu Kukat Pally,",897000,
+326,Maruti Suzuki Ciaz ZDi+,Maruti,Suzuki,2017,Ciaz ZDi+,Diesel,39273,"Jubilee Hills, Hyderabad",697000,
+327,Nissan Magnite XV Turbo,Nissan,Magnite,2021,XV Turbo,Petrol,45619,"Bellavista, Hyderabad",759000,
+328,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2020,Titanium 1.5L,Diesel,41438,"Beerappagadda, Hyderabad",856000,
+329,Hyundai i20 Asta (O),Hyundai,i20,2024,Asta (O),Petrol,12844,"Jubilee Hills, Hyderabad",927000,
+330,Tata Nexon XZA Plus,Tata,Nexon,2022,XZA Plus,Petrol,24362,"Beerappagadda, Hyderabad",1095753,
+331,Hyundai Creta SX 1.6,Hyundai,Creta,2018,SX 1.6,Petrol,52406,"Jntu Kukat Pally,",1129995,
+332,Maruti Suzuki Dzire ZDi,Maruti,Suzuki,2018,Dzire ZDi,Diesel,60327,"Beerappagadda, Hyderabad",717000,
+333,Tata Tiago Revotorq XZ,Tata,Tiago,2018,Revotorq XZ,Diesel,42945,"Bellavista, Hyderabad",453000,
+334,Maruti Suzuki Ertiga VXi,Maruti,Suzuki,2023,Ertiga VXi,Petrol,28230,"Jntu Kukat Pally,",880000,
+335,Hyundai Creta SX (O),Hyundai,Creta,2020,SX (O),Diesel,51435,"Jntu Kukat Pally,",1488598,
+336,Maruti Suzuki Dzire ZXi,Maruti,Suzuki,2020,Dzire ZXi,Petrol,50358,"Bellavista, Hyderabad",651000,
+337,Porsche Cayenne S Petrol,Porsche,Cayenne,2021,S Petrol,Petrol,38000,"Madhapur, Hyderabad",12200000,
+338,Volkswagen Polo Comfortline 1.0L,Volkswagen,Polo,2018,Comfortline 1.0L,Petrol,41734,"Beerappagadda, Hyderabad",527000,
+339,Hyundai Creta SX 1.6,Hyundai,Creta,2018,SX 1.6,Petrol,36440,"Jubilee Hills, Hyderabad",1127975,
+340,Mercedes-Benz GLC 220 d,Mercedes-Benz,GLC,2017,220 d,Diesel,68705,"Rockdale Somajiguda, Hyderabad",3300000,
+341,Mercedes-Benz C-Class C 200,Mercedes-Benz,C-Class,2016,C 200,Petrol,66665,"Rockdale Somajiguda, Hyderabad",2100000,
+342,Renault Kwid RXL,Renault,Kwid,2019,RXL,Petrol,44840,"Bellavista, Hyderabad",306000,
+343,MINI Cooper Convertible 1.6,MINI,Cooper,2014,Convertible 1.6,Petrol,26000,"Madhapur, Hyderabad",3000000,
+344,Maruti Suzuki Dzire ZXi,Maruti,Suzuki,2020,Dzire ZXi,Petrol,50358,"Bellavista, Hyderabad",651000,
+345,Porsche Cayenne S Petrol,Porsche,Cayenne,2021,S Petrol,Petrol,38000,"Madhapur, Hyderabad",12200000,
+346,Renault Kwid RXL,Renault,Kwid,2019,RXL,Petrol,44840,"Bellavista, Hyderabad",306000,
+347,Mahindra Thar LX Hard,Mahindra,Thar,2022,LX Hard,Petrol,10187,"Beerappagadda, Hyderabad",1372493,
+348,Tata Altroz XZ Plus,Tata,Altroz,2023,XZ Plus,CNG,14822,"Beerappagadda, Hyderabad",797000,
+349,Hyundai Creta SX 1.6,Hyundai,Creta,2018,SX 1.6,Petrol,36440,"Jubilee Hills, Hyderabad",1127975,
+350,Jeep Compass Model S,Jeep,Compass,2022,Model S,Diesel,35473,"Jntu Kukat Pally,",2348108,
+351,BMW X5 xDrive 30d,BMW,X5,2018,xDrive 30d,Diesel,70300,"Madhapur, Hyderabad",4495000,
+352,Ford EcoSport Titanium 1.5L,Ford,EcoSport,2016,Titanium 1.5L,Diesel,112659,"Uppal, Hyderabad",645000,
+353,Hyundai i10 Magna,Hyundai,i10,2009,Magna,Petrol,69364,"1 | Uppal,",260000,
+354,Maruti Suzuki Swift DZire,Maruti,Suzuki,2015,Swift DZire,Diesel,99576,"Uppal, Hyderabad",585000,
+355,MG Hector Sharp Hybrid,MG,Hector,2020,Sharp Hybrid,Hybrid,90213,"Nagarjuna Hills, Hyderabad",1150000,
+356,MG Astor Savvy 1.5,MG,Astor,2021,Savvy 1.5,Petrol,14000,"Nagarjuna Hills, Hyderabad",1350000,
+357,Maruti Suzuki Alto LXi,Maruti,Suzuki,2010,Alto LXi,Petrol,117729,"Uppal, Hyderabad",145000,
+358,Volkswagen Cross Polo 1.5,Volkswagen,Cross,2016,Polo 1.5,Diesel,99183,"Uppal, Hyderabad",499999,
+359,Hyundai Grand i10 Sports,Hyundai,Grand,2018,i10 Sports,Diesel,68350,"Uppal, Hyderabad",545000,
+360,Hyundai i10 Magna 1.2,Hyundai,i10,2010,Magna 1.2,Petrol,75265,"Uppal, Hyderabad",235000,
+361,MG Hector Sharp 1.5,MG,Hector,2021,Sharp 1.5,Petrol,60968,"Nagarjuna Hills, Hyderabad",1450000,
+362,Maruti Suzuki Omni 5,Maruti,Suzuki,2014,Omni 5,Petrol,31964,"Uppal, Hyderabad",275000,
+363,Chevrolet Beat LS Petrol,Chevrolet,Beat,2014,LS Petrol,Petrol,79764,"Uppal, Hyderabad",195000,
+364,Honda City 4th Generation,Honda,City,2017,4th Generation,Diesel,83304,"Uppal, Hyderabad",790000,
+365,Maruti Suzuki Wagon R,Maruti,Suzuki,2012,Wagon R,CNG,92369,"Uppal, Hyderabad",275000,
+366,BMW X1 sDrive20d,BMW,X1,2014,sDrive20d,Diesel,115063,"Madhapur, Hyderabad",1450000,
+367,Kia Seltos HTK 1.5,Kia,Seltos,2019,HTK 1.5,Diesel,82381,"Uppal, Hyderabad",1095000,
+368,Hyundai i10 Magna 1.2,Hyundai,i10,2010,Magna 1.2,Petrol,75265,"Uppal, Hyderabad",235000,
+369,Maruti Suzuki Wagon R,Maruti,Suzuki,2012,Wagon R,CNG,92369,"Uppal, Hyderabad",275000,
+370,Honda CR-V 2.4 AT,Honda,CR-V,2017,2.4 AT,Petrol,54000,"Attapur, Hyderabad",1650000,
+371,Volvo V40 Cross Country,Volvo,V40,2017,Cross Country,Diesel,111021,"Madhapur, Hyderabad",1600000,
+372,Volvo XC90 D5 Inscription,Volvo,XC90,2016,D5 Inscription,Diesel,94143,"Madhapur, Hyderabad",4200000,
+373,Kia Seltos HTK 1.5,Kia,Seltos,2020,HTK 1.5,Petrol,48542,"Madhapur, Hyderabad",1200000,
+374,Maruti Suzuki Ignis Alpha,Maruti,Suzuki,2020,Ignis Alpha,Petrol,51210,"Madhapur, Hyderabad",675000,
+375,Kia Seltos HTK 1.5,Kia,Seltos,2019,HTK 1.5,Diesel,82381,"Uppal, Hyderabad",1095000,
+376,BMW X1 sDrive20d,BMW,X1,2014,sDrive20d,Diesel,115063,"Madhapur, Hyderabad",1450000,
+377,Maruti Suzuki Wagon R,Maruti,Suzuki,2013,Wagon R,Petrol,78678,"Uppal, Hyderabad",270000,
+378,Audi Q3 35 TDI,Audi,Q3,2016,35 TDI,Diesel,137396,"Uppal, Hyderabad",1350000,
+379,MG ZS EV Exclusive,MG,ZS,2023,EV Exclusive,Electric,19191,"Nagarjuna Hills, Hyderabad",1875000,
+380,BMW X1 sDrive20d xLine,BMW,X1,2019,sDrive20d xLine,Diesel,56313,"Madhapur, Hyderabad",2850000,
+381,Honda Jazz S AT,Honda,Jazz,2015,S AT,Petrol,36773,"Madhapur, Hyderabad",550000,
+382,MG Hector Sharp 2.0,MG,Hector,2019,Sharp 2.0,Diesel,80093,"Nagarjuna Hills, Hyderabad",1250000,
+383,Mercedes-Benz GLA 200 [2021-2023],Mercedes-Benz,GLA,2024,200 [2021-2023],Petrol,2286,"Rockdale Somajiguda, Hyderabad",4851400,
+384,Kia Seltos HTX Plus,Kia,Seltos,2022,HTX Plus,Diesel,50508,"Uppal, Hyderabad",1550000,
+385,Toyota Innova 2.5 VX,Toyota,Innova,2013,2.5 VX,Diesel,177980,"Uppal, Hyderabad",830000,
+386,Hyundai i10 Sportz 1.2,Hyundai,i10,2011,Sportz 1.2,Petrol,66127,"Uppal, Hyderabad",325000,
+387,Mahindra TUV300 T8,Mahindra,TUV300,2016,T8,Diesel,92379,"Uppal, Hyderabad",620000,
+388,Maruti Suzuki Swift Dzire,Maruti,Suzuki,2016,Swift Dzire,Diesel,87354,"Uppal, Hyderabad",585000,
+389,Mahindra Bolero ZLX BS,Mahindra,Bolero,2014,ZLX BS,Diesel,106188,"Uppal, Hyderabad",485000,
+390,Hyundai Verna Transform 1.5,Hyundai,Verna,2011,Transform 1.5,Diesel,156018,"Uppal, Hyderabad",265000,
+391,Mercedes-Benz GL 350 CDI,Mercedes-Benz,GL,2014,350 CDI,Diesel,72600,"Attapur, Hyderabad",3200000,
+392,Mahindra TUV300 T8,Mahindra,TUV300,2016,T8,Diesel,92379,"Uppal, Hyderabad",620000,
+393,Maruti Suzuki Swift Dzire,Maruti,Suzuki,2016,Swift Dzire,Diesel,87354,"Uppal, Hyderabad",585000,
+394,Mahindra Bolero ZLX BS,Mahindra,Bolero,2014,ZLX BS,Diesel,106188,"Uppal, Hyderabad",485000,
+395,Toyota Innova Crysta 2.8,Toyota,Innova,2018,Crysta 2.8,Diesel,106100,"Attapur, Hyderabad",2150000,
+396,Mercedes-Benz GL 350 CDI,Mercedes-Benz,GL,2014,350 CDI,Diesel,72600,"Attapur, Hyderabad",3200000,
+397,Toyota Fortuner 4X2 AT,Toyota,Fortuner,2022,4X2 AT,Diesel,48900,"Attapur, Hyderabad",3975000,
+398,Toyota Innova Crysta ZX,Toyota,Innova,2022,Crysta ZX,Diesel,57900,"Attapur, Hyderabad",3150000,
+399,Toyota Urban Cruiser Mid,Toyota,Urban,2021,Cruiser Mid,Petrol,55019,"Uppal, Hyderabad",825000,
+400,Maruti Suzuki Wagon R,Maruti,Suzuki,2014,Wagon R,Petrol,60901,"Madhapur, Hyderabad",360000,
+401,Mahindra Bolero B6,Mahindra,Bolero,2020,B6,Diesel,127947,"Uppal, Hyderabad",785000,
+402,Hyundai Verna Fluidic 1.6,Hyundai,Verna,2013,Fluidic 1.6,Diesel,87555,"Uppal, Hyderabad",430000,
+403,Renault Duster 85 PS,Renault,Duster,2018,85 PS,Diesel,84460,"Uppal, Hyderabad",625000,
+404,Mercedes-Benz C-Class 250 CDI,Mercedes-Benz,C-Class,2010,250 CDI,Diesel,104700,"Attapur, Hyderabad",675000,
+405,BMW 3 Series 320d,BMW,3,2022,Series 320d,Diesel,33814,"Madhapur, Hyderabad",4900000,
+406,Mercedes-Benz GLA 200 Sport,Mercedes-Benz,GLA,2016,200 Sport,Petrol,69810,"Madhapur, Hyderabad",2000000,
+407,Skoda Fabia Ambiente 1.2,Skoda,Fabia,2012,Ambiente 1.2,Diesel,88300,"Madhapur, Hyderabad",350000,
+408,MINI Countryman Cooper S,MINI,Countryman,2022,Cooper S,Petrol,25000,"Madhapur, Hyderabad",3500000,
+409,Toyota Fortuner 2.8 4x2,Toyota,Fortuner,2020,2.8 4x2,Diesel,159323,"Madhapur, Hyderabad",2900000,
+410,BMW iX xDrive 40,BMW,iX,2023,xDrive 40,Electric,4600,"Madhapur, Hyderabad",11000000,
+411,Mercedes-Benz GLC 220d 4MATIC,Mercedes-Benz,GLC,2019,220d 4MATIC,Diesel,43000,"Madhapur, Hyderabad",5000000,
+412,BMW X5 xDrive 30d,BMW,X5,2018,xDrive 30d,Diesel,76000,"Madhapur, Hyderabad",4500000,
+413,Bentley Continental Flying Spur,Bentley,Continental,2011,Flying Spur,Petrol,62000,"Madhapur, Hyderabad",6500000,
+414,Mercedes-Benz M-Class ML 250,Mercedes-Benz,M-Class,2015,ML 250,Diesel,43000,"Madhapur, Hyderabad",3300000,
+415,Audi A6 Premium Plus,Audi,A6,2022,Premium Plus,Petrol,14000,"Madhapur, Hyderabad",4500000,
+416,BMW X5 xDrive 30d,BMW,X5,2018,xDrive 30d,Diesel,76000,"Madhapur, Hyderabad",4500000,
+417,Bentley Continental Flying Spur,Bentley,Continental,2011,Flying Spur,Petrol,62000,"Madhapur, Hyderabad",6500000,
+418,Mercedes-Benz M-Class ML 250,Mercedes-Benz,M-Class,2015,ML 250,Diesel,43000,"Madhapur, Hyderabad",3300000,
+419,Audi A6 Premium Plus,Audi,A6,2022,Premium Plus,Petrol,14000,"Madhapur, Hyderabad",4500000,
+420,BMW X1 sDrive20d xLine,BMW,X1,2019,sDrive20d xLine,Diesel,46000,"Madhapur, Hyderabad",2950000,
+421,Hyundai Verna Fluidic 1.6,Hyundai,Verna,2011,Fluidic 1.6,Diesel,126265,"Uppal, Hyderabad",330000,
+422,Toyota Innova Crysta ZX,Toyota,Innova,2022,Crysta ZX,Diesel,82000,"Attapur, Hyderabad",3000000,
+423,Toyota Innova 2.5 V,Toyota,Innova,2008,2.5 V,Diesel,76000,"Attapur, Hyderabad",600000,
+424,Toyota Innova Crysta 2.4,Toyota,Innova,2024,Crysta 2.4,Diesel,15140,"Attapur, Hyderabad",2550000,
+425,Kia Carnival Premium 8,Kia,Carnival,2021,Premium 8,Diesel,26000,"Madhapur, Hyderabad",2950000,
+426,Mercedes-Benz CLA 200 CDI,Mercedes-Benz,CLA,2016,200 CDI,Diesel,52000,"Madhapur, Hyderabad",1800000,
+427,MINI Cooper S 3,MINI,Cooper,2018,S 3,Petrol,37000,"Madhapur, Hyderabad",3200000,
+428,BMW 5 Series 520d,BMW,5,2018,Series 520d,Diesel,137000,"Madhapur, Hyderabad",2700000,
+429,MINI Cooper S,MINI,Cooper,2024,S,Petrol,9400,"Madhapur, Hyderabad",5900000,
+430,Toyota Fortuner 4X2 AT,Toyota,Fortuner,2023,4X2 AT,Diesel,95000,"Madhapur, Hyderabad",4200000,
+431,BMW X5 xDrive30d Pure,BMW,X5,2018,xDrive30d Pure,Diesel,69164,"Madhapur, Hyderabad",4500000,
+432,Toyota Fortuner 4X4 AT,Toyota,Fortuner,2023,4X4 AT,Diesel,53636,"Madhapur, Hyderabad",4200000,
+433,Toyota Innova Crysta G,Toyota,Innova,2022,Crysta G,Diesel,28900,"Attapur, Hyderabad",2300000,
+434,Mercedes-Benz E-Class E 350,Mercedes-Benz,E-Class,2021,E 350,Diesel,28000,"Rockdale Somajiguda, Hyderabad",5900000,
+435,Mercedes-Benz EQS SUV 580,Mercedes-Benz,EQS,2024,SUV 580,Electric,4818,"Rockdale Somajiguda, Hyderabad",21108500,
+436,Mercedes-Benz GLS 450d 4MATIC,Mercedes-Benz,GLS,2024,450d 4MATIC,Diesel,10000,"Madhapur, Hyderabad",12300000,
+437,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2021,Ciaz Alpha,Petrol,45094,"Jntu Kukat Pally,",918000,
+438,Maruti Suzuki Vitara Brezza,Maruti,Suzuki,2017,Vitara Brezza,Diesel,114675,"Uppal, Hyderabad",769000,
+439,Maruti Suzuki Alto 800,Maruti,Suzuki,2017,Alto 800,Petrol,39514,"Uppal, Hyderabad",290000,
+440,Mercedes-Benz EQS SUV 580,Mercedes-Benz,EQS,2024,SUV 580,Electric,4818,"Rockdale Somajiguda, Hyderabad",21108500,
+441,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2021,Ciaz Alpha,Petrol,45094,"Jntu Kukat Pally,",918000,
+442,Volkswagen Vento Highline Diesel,Volkswagen,Vento,2015,Highline Diesel,Diesel,91299,"Uppal, Hyderabad",535000,
+443,Maruti Suzuki Alto 800,Maruti,Suzuki,2017,Alto 800,Petrol,39514,"Uppal, Hyderabad",290000,
+444,Maruti Suzuki Vitara Brezza,Maruti,Suzuki,2017,Vitara Brezza,Diesel,114675,"Uppal, Hyderabad",769000,
+445,Hyundai Grand i10 Nios,Hyundai,Grand,2021,i10 Nios,Petrol,34000,"Attapur, Hyderabad",725000,
+446,Renault Duster 85 PS,Renault,Duster,2016,85 PS,Diesel,78369,"Uppal, Hyderabad",535000,
+447,Maruti Suzuki Wagon R,Maruti,Suzuki,2018,Wagon R,Petrol,81000,"Attapur, Hyderabad",425000,
+448,Toyota Fortuner 2.8 4x2,Toyota,Fortuner,2020,2.8 4x2,Diesel,159323,"Madhapur, Hyderabad",2900000,
+449,Mercedes-Benz E-Class E220 CDI,Mercedes-Benz,E-Class,2012,E220 CDI,Diesel,77200,"Attapur, Hyderabad",1150000,
+450,Premier Padmini Std,Premier,Padmini,1989,Std,Petrol,25400,"Attapur, Hyderabad",225000,
+451,Mercedes-Benz GLE 450d 4MATIC,Mercedes-Benz,GLE,2024,450d 4MATIC,Diesel,9110,"Madhapur, Hyderabad",12500000,
+452,Mercedes-Benz E-Class E 220,Mercedes-Benz,E-Class,2019,E 220,Diesel,84233,"Rockdale Somajiguda, Hyderabad",4000000,
+453,Mercedes-Benz GLA 220 d,Mercedes-Benz,GLA,2019,220 d,Diesel,26093,"Rockdale Somajiguda, Hyderabad",3000000,
+454,Mercedes-Benz GLE 250 d,Mercedes-Benz,GLE,2017,250 d,Diesel,130000,"Rockdale Somajiguda, Hyderabad",2700000,
+455,BMW X1 sDrive20d xLine,BMW,X1,2017,sDrive20d xLine,Diesel,71974,"Rockdale Somajiguda, Hyderabad",1900000,
+456,Toyota Fortuner 2.8 4x2,Toyota,Fortuner,2019,2.8 4x2,Diesel,67600,"Attapur, Hyderabad",3300000,
+457,Hyundai Grand i10 Asta,Hyundai,Grand,2014,i10 Asta,Diesel,122800,"Attapur, Hyderabad",400000,
+458,Skoda Rapid Style 1.6,Skoda,Rapid,2018,Style 1.6,Petrol,36467,"Madhapur, Hyderabad",950000,
+459,Hyundai Elite i20 Asta,Hyundai,Elite,2017,i20 Asta,Diesel,69874,"Shaikpet, Hyderabad",550000,
+460,Jeep Wrangler Unlimited 4x4,Jeep,Wrangler,2017,Unlimited 4x4,Petrol,80000,"Madhapur, Hyderabad",4500000,
+461,Mercedes-Benz GLA 200 d,Mercedes-Benz,GLA,2019,200 d,Diesel,17360,"Madhapur, Hyderabad",2950000,
+462,Toyota Land Cruiser Prado,Toyota,Land,2003,Cruiser Prado,Petrol,82500,"Attapur, Hyderabad",1600000,
+463,Mercedes-Benz E-Class E 220,Mercedes-Benz,E-Class,2022,E 220,Diesel,21000,"Madhapur, Hyderabad",5650000,
+464,Toyota Land Cruiser Prado,Toyota,Land,2003,Cruiser Prado,Petrol,82500,"Attapur, Hyderabad",1600000,
+465,Jeep Wrangler Unlimited 4x4,Jeep,Wrangler,2017,Unlimited 4x4,Petrol,80000,"Madhapur, Hyderabad",4500000,
+466,Mercedes-Benz GLA 200 d,Mercedes-Benz,GLA,2019,200 d,Diesel,17360,"Madhapur, Hyderabad",2950000,
+467,Mercedes-Benz A-Class A 180,Mercedes-Benz,A-Class,2015,A 180,Petrol,65000,"Rockdale Somajiguda, Hyderabad",800000,
+468,Mercedes-Benz GLA 220d [2021-2023],Mercedes-Benz,GLA,2022,220d [2021-2023],Diesel,34797,"Rockdale Somajiguda, Hyderabad",4200000,
+469,Mercedes-Benz GLE Coupe 43,Mercedes-Benz,GLE,2017,Coupe 43,Petrol,9500,"Rockdale Somajiguda, Hyderabad",6500000,
+470,Mercedes-Benz C-Class C220d Progressive,Mercedes-Benz,C-Class,2020,C220d Progressive,Diesel,59094,"Rockdale Somajiguda, Hyderabad",3625000,
+471,Mercedes-Benz GLE 250 d,Mercedes-Benz,GLE,2016,250 d,Diesel,112386,"Rockdale Somajiguda, Hyderabad",2500000,
+472,Maruti Suzuki Ertiga ZXi,Maruti,Suzuki,2019,Ertiga ZXi,Petrol,9500,"Rockdale Somajiguda, Hyderabad",1050000,
+473,Mercedes-Benz GLE 300d 4MATIC,Mercedes-Benz,GLE,2023,300d 4MATIC,Diesel,41322,"Rockdale Somajiguda, Hyderabad",8300000,
+474,Mercedes-Benz AMG GLC43 Coupe,Mercedes-Benz,AMG,2024,GLC43 Coupe,Petrol,6389,"Rockdale Somajiguda, Hyderabad",9738750,
+475,Mercedes-Benz E-Class E 220,Mercedes-Benz,E-Class,2022,E 220,Diesel,21000,"Madhapur, Hyderabad",5650000,
+476,Mercedes-Benz GLE 350 d,Mercedes-Benz,GLE,2015,350 d,Diesel,130000,"Madhapur, Hyderabad",3050000,
+477,BMW 3 Series 320d,BMW,3,2018,Series 320d,Diesel,50000,"Madhapur, Hyderabad",2750000,
+478,Toyota Fortuner 4X2 MT,Toyota,Fortuner,2022,4X2 MT,Diesel,54000,"Madhapur, Hyderabad",3750000,
+479,Mercedes-Benz A-Class Limousine 200d,Mercedes-Benz,A-Class,2022,Limousine 200d,Diesel,50054,"Rockdale Somajiguda, Hyderabad",4000000,
+480,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2018,C 220d,Diesel,66347,"Rockdale Somajiguda, Hyderabad",3000000,
+481,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2022,C 220d,Diesel,23619,"Rockdale Somajiguda, Hyderabad",5100000,
+482,Mercedes-Benz GLC 300 4MATIC,Mercedes-Benz,GLC,2024,300 4MATIC,Petrol,3458,"Rockdale Somajiguda, Hyderabad",7257600,
+483,Mercedes-Benz A-Class Limousine 200d,Mercedes-Benz,A-Class,2024,Limousine 200d,Diesel,6472,"Rockdale Somajiguda, Hyderabad",4636525,
+484,Audi Q3 30 TDI,Audi,Q3,2018,30 TDI,Diesel,73125,"Rockdale Somajiguda, Hyderabad",1975000,
+485,Mercedes-Benz E-Class E220 CDI,Mercedes-Benz,E-Class,2012,E220 CDI,Diesel,131190,"Rockdale Somajiguda, Hyderabad",900000,
+486,Mercedes-Benz GLE Coupe 43,Mercedes-Benz,GLE,2017,Coupe 43,Petrol,44568,"Rockdale Somajiguda, Hyderabad",6000000,
+487,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2024,C 220d,Diesel,6500,"Madhapur, Hyderabad",5300000,
+488,Mercedes-Benz A-Class Limousine 200d,Mercedes-Benz,A-Class,2024,Limousine 200d,Diesel,6472,"Rockdale Somajiguda, Hyderabad",4636525,
+489,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2018,C 220d,Diesel,66347,"Rockdale Somajiguda, Hyderabad",3000000,
+490,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2022,C 220d,Diesel,23619,"Rockdale Somajiguda, Hyderabad",5100000,
+491,Mercedes-Benz E-Class E 200,Mercedes-Benz,E-Class,2020,E 200,Petrol,11700,"Madhapur, Hyderabad",4650000,
+492,Mercedes-Benz E-Class E 220,Mercedes-Benz,E-Class,2020,E 220,Diesel,34521,"Madhapur, Hyderabad",4350000,
+493,Mercedes-Benz A-Class Limousine 200d,Mercedes-Benz,A-Class,2023,Limousine 200d,Diesel,63800,"Madhapur, Hyderabad",3500000,
+494,Mercedes-Benz AMG C 43,Mercedes-Benz,AMG,2023,C 43,Petrol,5200,"Madhapur, Hyderabad",10000000,
+495,Mercedes-Benz AMG GLC43 Coupe,Mercedes-Benz,AMG,2024,GLC43 Coupe,Petrol,7000,"Madhapur, Hyderabad",11200000,
+496,Mercedes-Benz A-Class Limousine 200,Mercedes-Benz,A-Class,2024,Limousine 200,Petrol,5500,"Madhapur, Hyderabad",4000000,
+497,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2024,C 220d,Diesel,6500,"Madhapur, Hyderabad",5300000,
+498,Mercedes-Benz GLA 200 [2021-2023],Mercedes-Benz,GLA,2024,200 [2021-2023],Petrol,4600,"Madhapur, Hyderabad",4600000,
+499,Mahindra TUV300 T10,Mahindra,TUV300,2017,T10,Diesel,90905,"Uppal, Hyderabad",845000,
+500,Maruti Suzuki Wagon R,Maruti,Suzuki,2012,Wagon R,CNG,83487,"Uppal, Hyderabad",260000,
+501,Toyota Innova Crysta 2.8,Toyota,Innova,2016,Crysta 2.8,Diesel,185804,"Uppal, Hyderabad",1490000,
+502,Maruti Suzuki Swift VDi,Maruti,Suzuki,2016,Swift VDi,Diesel,81562,"Uppal, Hyderabad",525000,
+503,Volkswagen Vento Highline Diesel,Volkswagen,Vento,2012,Highline Diesel,Diesel,73483,"Uppal, Hyderabad",360000,
+504,Skoda Rapid 1.5 TDI,Skoda,Rapid,2015,1.5 TDI,Diesel,94737,"Uppal, Hyderabad",520000,
+505,Tata Indica Vista Aqua,Tata,Indica,2010,Vista Aqua,Diesel,68598,"Uppal, Hyderabad",185000,
+506,Honda Amaze 1.5 SX,Honda,Amaze,2015,1.5 SX,Diesel,111179,"Uppal, Hyderabad",490000,
+507,Skoda Slavia Style 1.0L,Skoda,Slavia,2022,Style 1.0L,Petrol,18421,"Madhapur, Hyderabad",1650000,
+508,Jaguar XE Portfolio,Jaguar,XE,2019,Portfolio,Petrol,52346,"Madhapur, Hyderabad",3400000,
+509,Maruti Suzuki Swift VXi,Maruti,Suzuki,2018,Swift VXi,Petrol,87405,"Madhapur, Hyderabad",650000,
+510,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,43941,"Shaikpet, Hyderabad",855000,
+511,Mercedes-Benz C-Class 250 CDI,Mercedes-Benz,C-Class,2012,250 CDI,Diesel,62451,"Madhapur, Hyderabad",1300000,
+512,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,43941,"Shaikpet, Hyderabad",855000,
+513,Honda Jazz S Diesel,Honda,Jazz,2016,S Diesel,Diesel,102736,"Uppal, Hyderabad",495000,
+514,Skoda Slavia Style 1.0L,Skoda,Slavia,2022,Style 1.0L,Petrol,18421,"Madhapur, Hyderabad",1650000,
+515,Jaguar XE Portfolio,Jaguar,XE,2019,Portfolio,Petrol,52346,"Madhapur, Hyderabad",3400000,
+516,Maruti Suzuki Swift VXi,Maruti,Suzuki,2018,Swift VXi,Petrol,87405,"Madhapur, Hyderabad",650000,
+517,Mercedes-Benz GLE 250 d,Mercedes-Benz,GLE,2018,250 d,Diesel,88740,"Madhapur, Hyderabad",4000000,
+518,Mercedes-Benz GLC 220d 4MATIC,Mercedes-Benz,GLC,2024,220d 4MATIC,Diesel,20,"Madhapur, Hyderabad",7050000,
+519,Mercedes-Benz A-Class Limousine 200d,Mercedes-Benz,A-Class,2024,Limousine 200d,Diesel,4000,"Madhapur, Hyderabad",4400000,
+520,Mercedes-Benz GLC 220d 4MATIC,Mercedes-Benz,GLC,2024,220d 4MATIC,Diesel,4500,"Madhapur, Hyderabad",7150000,
+521,Mercedes-Benz GLA 200d Urban,Mercedes-Benz,GLA,2018,200d Urban,Diesel,144970,"Rockdale Somajiguda, Hyderabad",1900000,
+522,Mercedes-Benz EQS 580 4MATIC,Mercedes-Benz,EQS,2024,580 4MATIC,Electric,3884,"Rockdale Somajiguda, Hyderabad",15049750,
+523,Mercedes-Benz S-Class (W222) S,Mercedes-Benz,S-Class,2024,(W222) S,Diesel,6932,"Rockdale Somajiguda, Hyderabad",16924950,
+524,Mercedes-Benz C-Class C 200,Mercedes-Benz,C-Class,2024,C 200,Petrol,2669,"Rockdale Somajiguda, Hyderabad",5613300,
+525,Mercedes-Benz S-Class (W222) S,Mercedes-Benz,S-Class,2024,(W222) S,Diesel,5800,"Rockdale Somajiguda, Hyderabad",16924950,
+526,Mercedes-Benz EQA 250 Plus,Mercedes-Benz,EQA,2024,250 Plus,Electric,6319,"Rockdale Somajiguda, Hyderabad",6350400,
+527,Mercedes-Benz EQB 350 4MATIC,Mercedes-Benz,EQB,2024,350 4MATIC,Electric,6328,"Rockdale Somajiguda, Hyderabad",7456050,
+528,Mercedes-Benz GLA 220d 4MATIC,Mercedes-Benz,GLA,2024,220d 4MATIC,Diesel,12146,"Rockdale Somajiguda, Hyderabad",5137900,
+529,Mercedes-Benz GLE 450 4MATIC,Mercedes-Benz,GLE,2024,450 4MATIC,Petrol,6035,"Rockdale Somajiguda, Hyderabad",10546200,
+530,Audi Q3 30 TDI,Audi,Q3,2018,30 TDI,Diesel,49191,"Madhapur, Hyderabad",2450000,
+531,Mercedes-Benz GLS 350 d,Mercedes-Benz,GLS,2017,350 d,Diesel,94748,"Madhapur, Hyderabad",4400000,
+532,Mercedes-Benz E-Class E350 CDI,Mercedes-Benz,E-Class,2011,E350 CDI,Diesel,96081,"Madhapur, Hyderabad",1350000,
+533,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2024,C 220d,Diesel,2000,"Madhapur, Hyderabad",5500000,
+534,Mercedes-Benz GLC 220d 4MATIC,Mercedes-Benz,GLC,2022,220d 4MATIC,Diesel,51000,"Madhapur, Hyderabad",4750000,
+535,Maruti Suzuki Celerio VXi,Maruti,Suzuki,2020,Celerio VXi,Petrol,45728,"Uppal, Hyderabad",490000,
+536,Mercedes-Benz E-Class E350 CDI,Mercedes-Benz,E-Class,2011,E350 CDI,Diesel,96081,"Madhapur, Hyderabad",1350000,
+537,Mercedes-Benz C-Class C 220d,Mercedes-Benz,C-Class,2024,C 220d,Diesel,2000,"Madhapur, Hyderabad",5500000,
+538,Mercedes-Benz GLC 220d 4MATIC,Mercedes-Benz,GLC,2022,220d 4MATIC,Diesel,51000,"Madhapur, Hyderabad",4750000,
+539,Maruti Suzuki Celerio VXi,Maruti,Suzuki,2020,Celerio VXi,Petrol,45728,"Uppal, Hyderabad",490000,
+540,Audi Q3 35 TDI,Audi,Q3,2014,35 TDI,Diesel,136294,"Madhapur, Hyderabad",1450000,
+541,Hyundai Grand i10 Nios,Hyundai,Grand,2020,i10 Nios,Diesel,57307,"Shaikpet, Hyderabad",650000,
+542,Maruti Suzuki Alto LXi,Maruti,Suzuki,2009,Alto LXi,Petrol,151305,"Shaikpet, Hyderabad",100000,
+543,Hyundai Alcazar Prestige (O),Hyundai,Alcazar,2021,Prestige (O),Petrol,38174,"Shaikpet, Hyderabad",1450000,
+544,Maruti Suzuki Dzire VDi,Maruti,Suzuki,2018,Dzire VDi,Diesel,74759,"Bellavista, Hyderabad",668000,
+545,Hyundai Eon Era +,Hyundai,Eon,2015,Era +,Petrol,72223,"Jubilee Hills, Hyderabad",256000,
+546,Hyundai Eon 1.0 Kappa,Hyundai,Eon,2016,1.0 Kappa,Petrol,77255,"Jubilee Hills, Hyderabad",252000,
+547,Maruti Suzuki Wagon R,Maruti,Suzuki,2024,Wagon R,Petrol,14718,"Beerappagadda, Hyderabad",673000,
+548,Renault Kwid RXL,Renault,Kwid,2019,RXL,Petrol,55628,"Jubilee Hills, Hyderabad",320000,
+549,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2018,Ciaz Alpha,Petrol,57527,"Bellavista, Hyderabad",737000,
+550,Renault Kwid 1.0 RXT,Renault,Kwid,2021,1.0 RXT,Petrol,39599,"Bellavista, Hyderabad",406000,
+551,Maruti Suzuki Alto 800,Maruti,Suzuki,2018,Alto 800,Petrol,56504,"Beerappagadda, Hyderabad",321000,
+552,Maruti Suzuki Alto 800,Maruti,Suzuki,2021,Alto 800,Petrol,51874,"Beerappagadda, Hyderabad",315000,
+553,Maruti Suzuki Alto 800,Maruti,Suzuki,2013,Alto 800,Petrol,35869,"Bellavista, Hyderabad",255000,
+554,Tata Tiago XZA Plus,Tata,Tiago,2020,XZA Plus,Petrol,3420,"Jubilee Hills, Hyderabad",639000,
+555,Maruti Suzuki Alto 800,Maruti,Suzuki,2016,Alto 800,Petrol,60640,"Bellavista, Hyderabad",267000,
+556,Maruti Suzuki Alto 800,Maruti,Suzuki,2016,Alto 800,Petrol,43468,"Bellavista, Hyderabad",273000,
+557,Maruti Suzuki Alto 800,Maruti,Suzuki,2017,Alto 800,Petrol,60689,"Bellavista, Hyderabad",287000,
+558,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2016,Baleno Zeta,Petrol,54083,"Beerappagadda, Hyderabad",543000,
+559,Maruti Suzuki Alto 800,Maruti,Suzuki,2019,Alto 800,Petrol,56950,"Beerappagadda, Hyderabad",340000,
+560,Maruti Suzuki Alto 800,Maruti,Suzuki,2018,Alto 800,Petrol,29407,"Bellavista, Hyderabad",336000,
+561,Maruti Suzuki Alto 800,Maruti,Suzuki,2021,Alto 800,Petrol,51874,"Beerappagadda, Hyderabad",315000,
+562,Maruti Suzuki Alto 800,Maruti,Suzuki,2016,Alto 800,Petrol,43468,"Bellavista, Hyderabad",273000,
+563,Maruti Suzuki Alto K10,Maruti,Suzuki,2019,Alto K10,Petrol,39139,"Jubilee Hills, Hyderabad",373000,
+564,Hyundai i10 Magna 1.2,Hyundai,i10,2010,Magna 1.2,Petrol,60131,"Bellavista, Hyderabad",235000,
+565,Tata Tiago XZA Plus,Tata,Tiago,2020,XZA Plus,Petrol,3420,"Jubilee Hills, Hyderabad",639000,
+566,Maruti Suzuki Alto 800,Maruti,Suzuki,2013,Alto 800,Petrol,35869,"Bellavista, Hyderabad",255000,
+567,Maruti Suzuki Alto 800,Maruti,Suzuki,2019,Alto 800,Petrol,56950,"Beerappagadda, Hyderabad",340000,
+568,Maruti Suzuki Alto 800,Maruti,Suzuki,2016,Alto 800,Petrol,60640,"Bellavista, Hyderabad",267000,
+569,Maruti Suzuki Alto 800,Maruti,Suzuki,2015,Alto 800,Petrol,27480,"Beerappagadda, Hyderabad",268000,
+570,Maruti Suzuki Alto 800,Maruti,Suzuki,2021,Alto 800,Petrol,30308,"Bellavista, Hyderabad",355000,
+571,Audi A4 2.0 TDI,Audi,A4,2012,2.0 TDI,Diesel,39876,"Madhapur, Hyderabad",800000,
+572,Hyundai i10 Sportz 1.2,Hyundai,i10,2011,Sportz 1.2,Petrol,62625,"Bellavista, Hyderabad",296000,
+573,Honda CR-V 2.4 AT,Honda,CR-V,2007,2.4 AT,Petrol,183600,"Attapur, Hyderabad",430000,
+574,Nissan Magnite XV Premium,Nissan,Magnite,2022,XV Premium,Petrol,20086,"Bellavista, Hyderabad",949000,
+575,Hyundai Venue SX (O),Hyundai,Venue,2021,SX (O),Diesel,38226,"Jntu Kukat Pally,",1090703,
+576,Hyundai Venue SX 1.0,Hyundai,Venue,2021,SX 1.0,Petrol,67172,"Bellavista, Hyderabad",795000,
+577,Hyundai Venue SX (O),Hyundai,Venue,2021,SX (O),Diesel,38980,"Jntu Kukat Pally,",1075508,
+578,Maruti Suzuki Alto K10,Maruti,Suzuki,2013,Alto K10,Petrol,40025,"Jubilee Hills, Hyderabad",220000,
+579,Hyundai Elite i20 Asta,Hyundai,Elite,2018,i20 Asta,Diesel,71502,"Shaikpet, Hyderabad",698000,
+580,Maruti Suzuki Alto 800,Maruti,Suzuki,2019,Alto 800,Petrol,11737,"Bellavista, Hyderabad",351000,
+581,Maruti Suzuki Alto 800,Maruti,Suzuki,2018,Alto 800,Petrol,17555,"Beerappagadda, Hyderabad",331000,
+582,Hyundai i10 Magna 1.2,Hyundai,i10,2010,Magna 1.2,Petrol,51877,"Jubilee Hills, Hyderabad",225000,
+583,Renault Kwid CLIMBER 1.0,Renault,Kwid,2021,CLIMBER 1.0,Petrol,2814,"Beerappagadda, Hyderabad",461000,
+584,Maruti Suzuki Alto 800,Maruti,Suzuki,2019,Alto 800,Petrol,11737,"Bellavista, Hyderabad",351000,
+585,Maruti Suzuki Alto 800,Maruti,Suzuki,2018,Alto 800,Petrol,17555,"Beerappagadda, Hyderabad",331000,
+586,Hyundai i10 Magna 1.2,Hyundai,i10,2010,Magna 1.2,Petrol,51877,"Jubilee Hills, Hyderabad",225000,
+587,Renault Kwid CLIMBER 1.0,Renault,Kwid,2021,CLIMBER 1.0,Petrol,2814,"Beerappagadda, Hyderabad",461000,
+588,Hyundai i10 Magna 1.2,Hyundai,i10,2010,Magna 1.2,Petrol,72952,"Jubilee Hills, Hyderabad",225000,
+589,Hyundai i10 Sportz 1.2,Hyundai,i10,2012,Sportz 1.2,Petrol,57616,"Bellavista, Hyderabad",304000,
+590,Nissan Sunny XL Diesel,Nissan,Sunny,2012,XL Diesel,Diesel,89765,"Uppal, Hyderabad",320000,
+591,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2019,Baleno Zeta,Petrol,51895,"Uppal, Hyderabad",665000,
+592,Hyundai Eon Magna +,Hyundai,Eon,2017,Magna +,Petrol,21454,"L B Nagar,",363000,
+593,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2019,Baleno Zeta,Petrol,40250,"Old MLA Quarters,",672000,
+594,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2021,Baleno Zeta,Petrol,56774,"Old MLA Quarters,",717000,
+595,Tata Nexon XZ,Tata,Nexon,2021,XZ,Petrol,34788,"Old MLA Quarters,",890000,
+596,Maruti Suzuki Baleno Delta,Maruti,Suzuki,2019,Baleno Delta,Petrol,34046,"L B Nagar,",701099,
+597,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2019,Baleno Zeta,Petrol,46107,"Old MLA Quarters,",664000,
+598,Hyundai Eon Magna +,Hyundai,Eon,2017,Magna +,Petrol,21454,"L B Nagar,",367431,
+599,Nissan Magnite XV Turbo,Nissan,Magnite,2022,XV Turbo,Petrol,20101,"Madhapur, Hyderabad",820000,
+600,Ford EcoSport Trend 1.5L,Ford,EcoSport,2020,Trend 1.5L,Diesel,58067,"Madhapur, Hyderabad",790000,
+601,Kia Carens Prestige Plus,Kia,Carens,2023,Prestige Plus,Petrol,14344,"Madhapur, Hyderabad",1599000,
+602,Hyundai Verna SX 1.5,Hyundai,Verna,2021,SX 1.5,Petrol,62477,"Madhapur, Hyderabad",1085000,
+603,Maruti Suzuki Ertiga ZXi,Maruti,Suzuki,2021,Ertiga ZXi,Petrol,30957,"Madhapur, Hyderabad",1100000,
+604,Mahindra Thar LX Hard,Mahindra,Thar,2023,LX Hard,Diesel,36600,"Madhapur, Hyderabad",1625000,
+605,Tata Tiago XZ Plus,Tata,Tiago,2023,XZ Plus,Petrol,45500,"Madhapur, Hyderabad",620000,
+606,Hyundai i10 Magna,Hyundai,i10,2014,Magna,Petrol,70807,"Bellavista, Hyderabad",266000,
+607,MG Hector Plus Sharp,MG,Hector,2020,Plus Sharp,Diesel,83302,"Jntu Kukat Pally,",1443095,
+608,Mahindra Thar LX Hard,Mahindra,Thar,2023,LX Hard,Diesel,36600,"Madhapur, Hyderabad",1625000,
+609,Tata Tiago XZ Plus,Tata,Tiago,2023,XZ Plus,Petrol,45500,"Madhapur, Hyderabad",620000,
+610,Hyundai i10 Magna,Hyundai,i10,2014,Magna,Petrol,70807,"Bellavista, Hyderabad",266000,
+611,MG Hector Plus Sharp,MG,Hector,2020,Plus Sharp,Diesel,83302,"Jntu Kukat Pally,",1443095,
+612,Hyundai Creta SX 1.6,Hyundai,Creta,2018,SX 1.6,Petrol,81881,"Jntu Kukat Pally,",1042125,
+613,Hyundai Eon Sportz,Hyundai,Eon,2017,Sportz,Petrol,71131,"Jubilee Hills, Hyderabad",297000,
+614,Renault Kwid 1.0 RXT,Renault,Kwid,2019,1.0 RXT,Petrol,26268,"Beerappagadda, Hyderabad",368000,
+615,Hyundai Grand i10 Magna,Hyundai,Grand,2019,i10 Magna,Petrol,89627,"Beerappagadda, Hyderabad",445000,
+616,Honda Amaze 1.2 VX,Honda,Amaze,2022,1.2 VX,Petrol,72980,"Bellavista, Hyderabad",740000,
+617,Maruti Suzuki Celerio ZXi,Maruti,Suzuki,2022,Celerio ZXi,Petrol,10415,"Beerappagadda, Hyderabad",587000,
+618,Honda Amaze 1.2 VX,Honda,Amaze,2022,1.2 VX,Petrol,31538,"Bellavista, Hyderabad",737000,
+619,Renault Duster RXZ 1.3,Renault,Duster,2021,RXZ 1.3,Petrol,33549,"Jubilee Hills, Hyderabad",998000,
+620,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,39439,"Beerappagadda, Hyderabad",945000,
+621,Maruti Suzuki S-Presso VXi,Maruti,Suzuki,2020,S-Presso VXi,Petrol,83096,"Bellavista, Hyderabad",388000,
+622,Maruti Suzuki Alto K10,Maruti,Suzuki,2017,Alto K10,Petrol,30924,"Beerappagadda, Hyderabad",315000,
+623,Hyundai Grand i10 Nios,Hyundai,Grand,2022,i10 Nios,Petrol,20124,"Bellavista, Hyderabad",677000,
+624,Audi A6 35 TFSI,Audi,A6,2016,35 TFSI,Petrol,63379,"Jntu Kukat Pally,",1969358,
+625,Hyundai Venue SX Plus,Hyundai,Venue,2020,SX Plus,Petrol,110389,"Bellavista, Hyderabad",821000,
+626,Hyundai Aura SX 1.2,Hyundai,Aura,2021,SX 1.2,Petrol,28001,"Beerappagadda, Hyderabad",701000,
+627,Kia Seltos GTX Plus,Kia,Seltos,2019,GTX Plus,Petrol,50938,"Jntu Kukat Pally,",1278563,
+628,Hyundai Verna SX (O),Hyundai,Verna,2021,SX (O),Petrol,99651,"Bellavista, Hyderabad",1046955,
+629,Renault Kwid RXL Edition,Renault,Kwid,2017,RXL Edition,Petrol,50184,"Beerappagadda, Hyderabad",291000,
+630,Tata Tiago NRG Petrol,Tata,Tiago,2023,NRG Petrol,Petrol,26391,"Jubilee Hills, Hyderabad",623000,
+631,Hyundai Grand i10 Sportz,Hyundai,Grand,2014,i10 Sportz,Petrol,82137,"Bellavista, Hyderabad",414000,
+632,Maruti Suzuki Celerio ZXi,Maruti,Suzuki,2022,Celerio ZXi,Petrol,10415,"Beerappagadda, Hyderabad",587000,
+633,Nissan Micra Active XV,Nissan,Micra,2013,Active XV,Petrol,42436,"Bellavista, Hyderabad",246000,
+634,Tata Tiago NRG Petrol,Tata,Tiago,2023,NRG Petrol,Petrol,26391,"Jubilee Hills, Hyderabad",623000,
+635,Hyundai Grand i10 Sportz,Hyundai,Grand,2014,i10 Sportz,Petrol,82137,"Bellavista, Hyderabad",414000,
+636,Honda Amaze 1.2 VX,Honda,Amaze,2022,1.2 VX,Petrol,31538,"Bellavista, Hyderabad",737000,
+637,Maruti Suzuki Celerio VXi,Maruti,Suzuki,2021,Celerio VXi,Petrol,23836,"Bellavista, Hyderabad",465000,
+638,Ford Aspire Titanium 1.2,Ford,Aspire,2019,Titanium 1.2,Petrol,65449,"Bellavista, Hyderabad",562000,
+639,Hyundai Verna SX (O),Hyundai,Verna,2021,SX (O),Petrol,99651,"Bellavista, Hyderabad",1046955,
+640,Renault Duster RXZ 1.3,Renault,Duster,2021,RXZ 1.3,Petrol,33549,"Jubilee Hills, Hyderabad",998000,
+641,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2022,Ciaz Alpha,Petrol,39439,"Beerappagadda, Hyderabad",945000,
+642,Mahindra TUV300 T8,Mahindra,TUV300,2016,T8,Diesel,73096,"Bellavista, Hyderabad",672000,
+643,Maruti Suzuki Dzire VDi,Maruti,Suzuki,2019,Dzire VDi,Diesel,99623,"Bellavista, Hyderabad",676000,
+644,Renault Kwid RXL Edition,Renault,Kwid,2017,RXL Edition,Petrol,50184,"Beerappagadda, Hyderabad",291000,
+645,Honda Jazz V AT,Honda,Jazz,2016,V AT,Petrol,41615,A P E,452000,
+646,Renault Kwid CLIMBER 1.0,Renault,Kwid,2018,CLIMBER 1.0,Petrol,57300,A P E,304000,
+647,Renault Kwid RXL,Renault,Kwid,2019,RXL,Petrol,30863,"Hankimpet, Hyderabad",286000,
+648,Maruti Suzuki Wagon R,Maruti,Suzuki,2017,Wagon R,Petrol,27670,"Hankimpet, Hyderabad",415000,
+649,Hyundai Elite i20 Asta,Hyundai,Elite,2018,i20 Asta,Petrol,99933,"L B Nagar,",596000,
+650,Honda City V,Honda,City,2019,V,Petrol,65185,"Old MLA Quarters,",674000,
+651,Maruti Suzuki Alto K10,Maruti,Suzuki,2016,Alto K10,Petrol,113262,"Old MLA Quarters,",230000,
+652,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2019,Dzire VXi,Petrol,60581,"L B Nagar,",573000,
+653,Honda Jazz VX CVT,Honda,Jazz,2019,VX CVT,Petrol,38404,A P E,564000,
+654,Maruti Suzuki Alto 800,Maruti,Suzuki,2015,Alto 800,Petrol,62095,"Hankimpet, Hyderabad",220000,
+655,Hyundai Grand i10 Asta,Hyundai,Grand,2017,i10 Asta,Petrol,38331,"L B Nagar,",512000,
+656,Maruti Suzuki Dzire VXi,Maruti,Suzuki,2019,Dzire VXi,Petrol,60581,"L B Nagar,",573000,
+657,Honda Jazz VX CVT,Honda,Jazz,2019,VX CVT,Petrol,38404,A P E,564000,
+658,Maruti Suzuki Alto 800,Maruti,Suzuki,2015,Alto 800,Petrol,62095,"Hankimpet, Hyderabad",220000,
+659,Hyundai Grand i10 Asta,Hyundai,Grand,2017,i10 Asta,Petrol,38331,"L B Nagar,",512000,
+660,Hyundai Santro Magna AMT,Hyundai,Santro,2019,Magna AMT,Petrol,27556,"Hankimpet, Hyderabad",437000,
+661,Maruti Suzuki Alto 800,Maruti,Suzuki,2016,Alto 800,Petrol,43124,"Old MLA Quarters,",207000,
+662,Volkswagen Polo Highline1.2L (P),Volkswagen,Polo,2015,Highline1.2L (P),Petrol,84716,"Old MLA Quarters,",381000,
+663,Ford Figo Duratorq Diesel,Ford,Figo,2013,Duratorq Diesel,Diesel,110828,"Bellavista, Hyderabad",261000,
+664,Honda WR-V VX MT,Honda,WR-V,2019,VX MT,Petrol,57167,A P E,618000,
+665,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2017,Baleno Zeta,Petrol,59954,"L B Nagar,",565000,
+666,Honda Amaze 1.2 S,Honda,Amaze,2016,1.2 S,Petrol,62904,"L B Nagar,",441000,
+667,Honda Jazz V AT,Honda,Jazz,2017,V AT,Petrol,33208,"L B Nagar,",571000,
+668,Maruti Suzuki Wagon R,Maruti,Suzuki,2021,Wagon R,CNG,42697,"Old MLA Quarters,",506000,
+669,Hyundai Elite i20 Magna,Hyundai,Elite,2019,i20 Magna,Petrol,73698,"L B Nagar,",571000,
+670,Datsun GO T,Datsun,GO,2016,T,Petrol,104448,"Old MLA Quarters,",157000,
+671,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2019,Baleno Zeta,Petrol,89116,"Hankimpet, Hyderabad",562000,
+672,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2018,Baleno Zeta,Petrol,23729,"L B Nagar,",593000,
+673,Mahindra XUV300 W8 (O),Mahindra,XUV300,2021,W8 (O),Diesel,65376,"Hankimpet, Hyderabad",958000,
+674,Ford Freestyle Trend 1.2,Ford,Freestyle,2019,Trend 1.2,Petrol,74432,"Old MLA Quarters,",572000,
+675,Tata Tiago Revotron XZA,Tata,Tiago,2018,Revotron XZA,Petrol,86491,"Old MLA Quarters,",493000,
+676,Maruti Suzuki S-Presso VXi,Maruti,Suzuki,2020,S-Presso VXi,CNG,33548,"Hankimpet, Hyderabad",436000,
+677,Maruti Suzuki Alto 800,Maruti,Suzuki,2021,Alto 800,Petrol,65106,"Old MLA Quarters,",346000,
+678,Hyundai Santro Sportz [2018-2020],Hyundai,Santro,2019,Sportz [2018-2020],Petrol,64927,"Old MLA Quarters,",396000,
+679,Honda Amaze 1.2 VX,Honda,Amaze,2022,1.2 VX,Petrol,34001,"Hankimpet, Hyderabad",777000,
+680,Renault Kwid CLIMBER 1.0,Renault,Kwid,2018,CLIMBER 1.0,Petrol,57300,A P E,304000,
+681,Maruti Suzuki Baleno Zeta,Maruti,Suzuki,2017,Baleno Zeta,Petrol,59954,"L B Nagar,",565000,
+682,Honda Amaze 1.2 S,Honda,Amaze,2016,1.2 S,Petrol,62904,"L B Nagar,",441000,
+683,Hyundai Elite i20 Asta,Hyundai,Elite,2018,i20 Asta,Petrol,99933,"L B Nagar,",596000,
+684,Ford Figo Duratorq Diesel,Ford,Figo,2013,Duratorq Diesel,Diesel,110828,"Bellavista, Hyderabad",261000,
+685,Hyundai Grand i10 Sportz,Hyundai,Grand,2019,i10 Sportz,Petrol,30278,"L B Nagar,",595000,
+686,Toyota Etios Liva VXD,Toyota,Etios,2018,Liva VXD,Diesel,60164,"Bellavista, Hyderabad",668000,
+687,Kia Seltos GTX Plus,Kia,Seltos,2022,GTX Plus,Petrol,29429,"Jntu Kukat Pally,",1500000,
+688,Honda CR-V 2.0L 2WD,Honda,CR-V,2014,2.0L 2WD,Petrol,131726,"Bellavista, Hyderabad",674000,
+689,Hyundai Elite i20 Asta,Hyundai,Elite,2017,i20 Asta,Petrol,49275,"Beerappagadda, Hyderabad",619000,
+690,Maruti Suzuki Vitara Brezza,Maruti,Suzuki,2020,Vitara Brezza,Petrol,41815,"Hankimpet, Hyderabad",802000,
+691,Hyundai Aura SX 1.2,Hyundai,Aura,2023,SX 1.2,Petrol,49579,A P E,658000,
+692,Honda Amaze 2nd Gen,Honda,Amaze,2020,2nd Gen,Petrol,63565,"Old MLA Quarters,",631000,
+693,Maruti Suzuki Swift VDi,Maruti,Suzuki,2012,Swift VDi,Diesel,63842,"Hankimpet, Hyderabad",290000,
+694,Hyundai Verna Fluidic 1.6,Hyundai,Verna,2014,Fluidic 1.6,Petrol,41718,"L B Nagar,",529000,
+695,Hyundai Grand i10 Nios,Hyundai,Grand,2020,i10 Nios,Petrol,31865,"Old MLA Quarters,",527000,
+696,Maruti Suzuki S-Presso VXi,Maruti,Suzuki,2021,S-Presso VXi,Petrol,54436,"Beerappagadda, Hyderabad",423000,
+697,Hyundai Creta 1.6 SX,Hyundai,Creta,2016,1.6 SX,Petrol,93676,A P E,698000,
+698,Maruti Suzuki S-Presso VXi,Maruti,Suzuki,2019,S-Presso VXi,Petrol,43285,A P E,376000,
+699,Renault Kwid 1.0 RXT,Renault,Kwid,2016,1.0 RXT,Petrol,57461,"Hankimpet, Hyderabad",304000,
+700,Maruti Suzuki Ciaz Alpha,Maruti,Suzuki,2018,Ciaz Alpha,Diesel,83592,"Bellavista, Hyderabad",702000,
+701,Honda Jazz ZX,Honda,Jazz,2020,ZX,Petrol,46092,"Old MLA Quarters,",585000,
+702,Hyundai Grand i10 Asta,Hyundai,Grand,2019,i10 Asta,Petrol,56006,A P E,488000,
+703,Honda Amaze 1.2 S,Honda,Amaze,2013,1.2 S,Petrol,62065,A P E,343000,
